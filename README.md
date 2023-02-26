@@ -2,7 +2,7 @@
 
 I'm a computer science student with a passion for Data Science. I specialize in MERN stack web development and React Native mobile development. I'm also currently learning data science and aspire to become a data scientist in the future.
 
-- 🔭 I’m currently working on [Web Development]([link-to-project](https://github.com/asadali27232/Web_Dev_MERN)) and [React Native Development]([link-to-project](https://github.com/asadali27232/asadali27232/edit/main/README.md))
+- 🔭 I’m currently working on [Web Development](https://github.com/asadali27232/Web_Dev_MERN) and [React Native Development](https://github.com/asadali27232/asadali27232/edit/main/README.md)
 - 🌱 I’m currently learning data science and working on personal projects to apply my skills
 - 👯 I’m looking to collaborate on open-source projects related to web or mobile development
 - 💬 Ask me about anything related to MERN stack web development, React Native mobile development, or data science
