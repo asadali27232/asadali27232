@@ -43,7 +43,7 @@ I'm currently pursuing my Bachelor's degree in Computer Science from [COMSATS Un
 
 ### 📫 Let's Connect
 
-- [WhatsApp](https://wa.me/03074315952)
+- [WhatsApp](https://wa.me/923074315952)
 - [Email](mailto:asadali27232@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/asadali27232/)
 - [Facebook](https://www.facebook.com/asadalighaffar)
