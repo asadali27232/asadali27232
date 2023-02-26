@@ -26,7 +26,7 @@ Here are some of my notable projects:
 
 ### 📚 Education
 
-I'm currently pursuing my Bachelor's degree in Computer Science from COMSATS University Lahore, expected to graduate in 2023.
+I'm currently pursuing my Bachelor's degree in Computer Science from [COMSATS University Lahore]([https://wa.me/03074315952](https://lahore.comsats.edu.pk/default.aspx)), expected to graduate in 2023.
 
 ### 🌐 Languages
 
