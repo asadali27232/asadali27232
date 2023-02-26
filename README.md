@@ -45,7 +45,7 @@ I'm currently pursuing my Bachelor's degree in Computer Science from [COMSATS Un
 
 - [WhatsApp](https://wa.me/03074315952)
 - [Email](mailto:asadali27232@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/asad-ali-1234567/)
+- [LinkedIn](https://www.linkedin.com/in/asadali27232/)
 - [Facebook](https://www.facebook.com/asadalighaffar)
 - [Twitter](https://twitter.com/asadali27232)
 - [Personal Website](https://www.asadali27232.com/)
