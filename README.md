@@ -35,9 +35,9 @@ I'm currently pursuing my Bachelor's degree in Computer Science from [COMSATS Un
 
 ### 📈 GitHub Stats
 
-[![Asad Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadali27232&show_icons=true&theme=dark)](https://github.com/asadali27232)
+[![Asad Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadali27232&show_icons=true&theme=onedark)](https://github.com/asadali27232)
   
-[![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=asadali27232&layout=compact)](https://github.com/asadali27232)
+[![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=onedark)](https://github.com/<your-username>)
 
 ### 📫 Let's Connect
 
