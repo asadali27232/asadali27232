@@ -6,7 +6,7 @@ As a dedicated and passionate computer science student, I am constantly striving
 - 🌱 I’m currently learning data science and working on personal projects to apply my skills
 - 👯 I’m looking to collaborate on open-source projects related to web or mobile development
 - 💬 Ask me about anything related to MERN stack web development, React Native mobile development, or data science
-- 📫 How to reach me: [WhatsApp](https://wa.me/03074315952), [Email](mailto:asadali27232@gmail.com), [LinkedIn](https://www.linkedin.com/in/asad-ali-1234567/)
+- 📫 How to reach me: [WhatsApp](https://wa.me/03074315952), [Email](mailto:asadali27232@gmail.com)
 - 😄 Pronouns: He/Him
 
 ### 🚀 Skills
@@ -36,7 +36,9 @@ I'm currently pursuing my Bachelor's degree in Computer Science from COMSATS Uni
 ### 📈 GitHub Stats
 
 [![Asad Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadali27232&show_icons=true&theme=radical)](https://github.com/asadali27232)
-[![GitHub stats](https://img.shields.io/badge/GitHub-Stats-blue?style=flat-square&logo=github)](https://github.com/asadali27232)
+[![Asad Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadali27232&show_icons=true&theme=dark)](https://github.com/asadali27232)
+[![Asad Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadali27232&show_icons=true&theme=merko)](https://github.com/asadali27232)
+[![Asad Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadali27232&show_icons=true&theme=gruvbox)](https://github.com/asadali27232)
 
 ### 📫 Let's Connect
 
