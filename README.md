@@ -39,6 +39,8 @@ I'm currently pursuing my Bachelor's degree in Computer Science from [COMSATS Un
   
 [![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=asadali27232&layout=compact&theme=dark)](https://github.com/asadali27232)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=asadali27232&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 📫 Let's Connect
 
 - [WhatsApp](https://wa.me/03074315952)
