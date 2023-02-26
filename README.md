@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there, I'm Asad Ali! 👋
 
-<!--
-**asadali27232/asadali27232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science student with a passion for web and mobile development. I specialize in MERN stack web development and React Native mobile development. I'm also currently learning data science and aspire to become a data scientist in the future.
 
-Here are some ideas to get you started:
+### 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Web Development:** HTML, CSS, JavaScript, ReactJS, Node.js, Express.js, MongoDB, SQL
+- **Mobile Development:** React Native
+- **Data Science:** Python, Pandas, NumPy, Matplotlib, Scikit-learn
+
+### 💻 Projects
+
+- [Project 1](link-to-project): Short project description
+- [Project 2](link-to-project): Short project description
+- [Project 3](link-to-project): Short project description
+
+### 📚 Education
+
+- Bachelor of Computer Science, XYZ University (2019-2023)
+
+### 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/asad-ali-1234567/)
+- [Twitter](https://twitter.com/asadali27232)
+- [Personal Website](https://www.asadali27232.com/)
+- [Email](mailto:asadali27232@gmail.com)
+
