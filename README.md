@@ -48,5 +48,5 @@ I'm currently pursuing my Bachelor's degree in Computer Science from [COMSATS Un
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadali27232/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/asadalighaffar)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/asadali27232)
-[![Personal Website](https://img.shields.io/badge/Personal%20Website-24292e?style=for-the-badge&logo=web&logoColor=white)](https://www.asadali27232.com/)
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-24292e?style=for-the-badge&logo=react&logoColor=white)](https://www.asadali27232.com/)
 
