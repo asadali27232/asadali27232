@@ -37,11 +37,11 @@ I'm currently pursuing my Bachelor's degree in Computer Science from [COMSATS Un
 
 ### 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=asadali27232&theme=cobalt&hide_border=true&border_radius=4)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=asadali27232&theme=cobalt&hide_border=true&border_radius=4)
   
-[![Asad Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadali27232&show_icons=true&theme=github_dark&hide_border=true&border_radius=4)](https://github.com/asadali27232)
+![Asad Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadali27232&show_icons=true&theme=github_dark&hide_border=true&border_radius=4)
   
-[![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=asadali27232&layout=compact&theme=github_dark&hide_border=true&border_radius=4)](https://github.com/asadali27232)
+![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=asadali27232&layout=compact&theme=github_dark&hide_border=true&border_radius=4)
   
 ![Github Activity Graph - Last 31 Days](https://github-readme-activity-graph.cyclic.app/graph?username=asadali27232&bg_color=0d1117&color=58a6e1&line=40c463&point=00ff44&area=true&hide_border=true)
 ### 📫 Let's Connect
