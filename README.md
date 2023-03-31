@@ -43,8 +43,7 @@ I'm currently pursuing my Bachelor's degree in Computer Science from [COMSATS Un
   
 [![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=asadali27232&layout=compact&theme=github_dark&hide_border=true&border_radius=4)](https://github.com/asadali27232)
   
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=asadali27232&bg_color=000000&color=ffffff&line=57db66&point=42ff29&area=true&hide_border=true)
-
+![Github Activity Graph - Last 31 Days](https://github-readme-activity-graph.cyclic.app/graph?username=asadali27232&bg_color=0d1117&color=58a6e1&line=40c463&point=00ff44&area=true&hide_border=true)
 ### 📫 Let's Connect
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923074315952)
