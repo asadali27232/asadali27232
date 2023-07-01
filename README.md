@@ -43,8 +43,7 @@ I'm currently pursuing my Bachelor's degree in Computer Science from [COMSATS Un
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asadali27232&layout=compact&theme=github_dark&hide_border=true&border_radius=4&exclude_repo=html&card_width=450)
 
-
-
+![Language Stats](https://camo.githubusercontent.com/4b8c1240e0458c1911b79f8f34329b23beb256e95eb83deb99a2d3800fa19aba/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616c6972617a61687562267468656d653d7265616374)
 
 ### 📫 Let's Connect
 
