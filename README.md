@@ -52,6 +52,4 @@ I'm currently pursuing my Bachelor's degree in Computer Science from [COMSATS Un
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/asadali27232)
 [![Personal Website](https://img.shields.io/badge/Personal%20Website-24292e?style=for-the-badge&logo=react&logoColor=white&color=purplr)](https://asadali27232.github.io/asadali27232)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asadali27232)](https://github.com/asadali27232/github-readme-stats)
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/asadali27232/Web_Dev_MERN)
