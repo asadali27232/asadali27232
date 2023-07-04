@@ -54,3 +54,4 @@ I'm currently pursuing my Bachelor's degree in Computer Science from [COMSATS Un
 
 ### Repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asadali27232&repo=Learning-Python-CodeWithHarry&theme=github_dark&border_radius=4&card_width=470)](https://github.com/asadali27232/PF-Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asadali27232&repo=Learning-Python-CodeWithHarry&theme=github_dark&border_radius=4&card_width=470)](https://github.com/asadali27232/PF-Python)
