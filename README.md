@@ -53,4 +53,4 @@ I'm currently pursuing my Bachelor's degree in Computer Science from [COMSATS Un
 [![Personal Website](https://img.shields.io/badge/Personal%20Website-24292e?style=for-the-badge&logo=react&logoColor=white&color=purplr)](https://asadali27232.github.io/asadali27232)
 
 ### Repos
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asadali27232&repo=PF-Python&theme=github_dark&hide_border=true&border_radius=4)](https://github.com/asadali27232/PF-Python)
