@@ -37,11 +37,11 @@ I'm currently pursuing my Bachelor's degree in Computer Science from [COMSATS Un
 
 ### 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=asadali27232&theme=github_dark&hide_border=true&border_radius=4&card_width=470)](https://github.com/asadali27232/)
+[![GitHub Streak](https://streak-stats.demolab.com?user=asadali27232&theme=github_dark&custom_title=Streak&hide_border=true&border_radius=4&card_width=470)](https://github.com/asadali27232/)
   
 [![Asad Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadali27232&show_icons=true&theme=github_dark&hide_border=true&border_radius=4&rank_icon=percentile&card_width=470)](https://github.com/asadali27232/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadali27232&theme=transparent&hide_border=true&border_radius=4&langs_count=20&hide=python&exclude=python&card_width=470)](https://github.com/asadali27232/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadali27232&theme=github_dark&hide_border=true&border_radius=4&langs_count=20&hide=python&exclude=python&card_width=470)](https://github.com/asadali27232/)
 
 ### 📫 Let's Connect
 
@@ -52,6 +52,5 @@ I'm currently pursuing my Bachelor's degree in Computer Science from [COMSATS Un
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/asadali27232)
 [![Personal Website](https://img.shields.io/badge/Personal%20Website-24292e?style=for-the-badge&logo=react&logoColor=white&color=purplr)](https://asadali27232.github.io/asadali27232)
 
-### Reps
+### Repos
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadali27232&show_icons=true&theme=transparent)
