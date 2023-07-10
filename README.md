@@ -21,18 +21,6 @@ As a dedicated and passionate computer science student, I am constantly striving
 
 ### 💻 Projects
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; width: 300px; height: 300px; background-color: #f0f0f0; border-radius: 10px; margin: 10px; padding: 20px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 20px rgba(0, 0, 0, 0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 10px rgba(0, 0, 0, 0.1)';">
-    <h2 style="font-size: 24px; margin-bottom: 10px;">Project 1</h2>
-    <p style="font-size: 14px; margin-bottom: 20px;">Description of Project 1</p>
-    <a href="project1.html" style="text-decoration: none; color: #333; font-weight: bold;">View Project</a>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; width: 300px; height: 300px; background-color: #f0f0f0; border-radius: 10px; margin: 10px; padding: 20px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 20px rgba(0, 0, 0, 0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 10px rgba(0, 0, 0, 0.1)';">
-    <h2 style="font-size: 24px; margin-bottom: 10px;">Project 2</h2>
-    <p style="font-size: 14px; margin-bottom: 20px;">Description of Project 2</p>
-    <a href="project2.html" style="text-decoration: none; color: #333; font-weight: bold;">View Project</a>
-  </div>
-
 Here are some of my notable projects:
 
 - [Website](https://asadali27232.github.io/Web_Dev_MERN/): This website showcases my learning curve in MERN stack web development.
