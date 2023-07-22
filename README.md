@@ -2,6 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=asadali27232&style=flat-square&color=blue)
 
+
 As a dedicated and passionate computer science student, I am constantly striving to expand my skills and knowledge in the field. My expertise lies in MERN stack web development and React Native mobile development, and I am currently pursuing my interest in data science with the goal of becoming a data scientist in the future. With a strong foundation in programming, I approach every project with a detail-oriented mindset and a focus on delivering quality results. My GitHub profile reflects my experience, creativity, and continuous learning, and I am always excited to collaborate with other like-minded individuals to create innovative solutions.
 
 - 🔭 I’m currently working on [Web Development](https://github.com/asadali27232/Web_Dev_MERN) and [React Native Development](https://github.com/asadali27232/App_Dev_ReactNative)
