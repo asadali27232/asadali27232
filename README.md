@@ -17,12 +17,12 @@ As a dedicated and passionate computer science student, I am constantly striving
   Here are some of the technologies and tools that I use and feel comfortable with:
   
 - **Web Development:** HTML, CSS, JavaScript, ReactJS, Node.js, Express.js, MongoDB, SQL
-- **Mobile Development:** React Native
+- **Mobile Development:** React Native, JavaScript, Expo CLI, CSS, APIs
 - **Machine learning:** Supervised, Unsupervised, Python, Numpy, Pandas, Matplotlib, Scikit-learn, Tensorflow
-- **Digital Image Processing:** Python, Numpy, Pandas, Matplotlib, Pillow, OpenCV
+- **Digital Image Processing:** Python, Numpy, Pandas, Matplotlib, Pillow, OpenCV, Matlab
 - **Data Warehousing:** Visual Studio, MS SQL Server, TSQL, Microsoft Analysis Services, Microsoft Integration Services, Weka
 - **Data Science:** Python, Excel, Pandas, NumPy, Matplotlib, Seaborn
-- **Power BI:** DAX, Data Cleaning, Data Modeling, Visualization 
+- **Power BI:** DAX, Data Cleaning, Data Modeling, Visualizations
 
 ### 💻 Projects
 
@@ -31,8 +31,8 @@ Here are some of my notable projects:
 - [AFD Detector DIP](https://github.com/asadali27232/AFD-Detector_DIP-Project): A project including Digital Image Processing CNN model, a website, and a React native mobile.
 - [AI Desktop Assistant](https://github.com/asadali27232/AI-Desktop-Assistant): An Open AI-based assistant that creates word documents and code files through voice commands.
 - [Data Science Projects](https://github.com/asadali27232/Python-DS-ML-Learning-Codebase): Some entry-level projects to master the basics of python for Data Science.
-- [Power Bi Projects](https://github.com/asadali27232/PowerBI-CaseStudies-Projects): Dashboards created for business case studies to learn Power Bi.
-- [Multi Project Website](https://asadali27232.github.io/Web_Dev_MERN/): A Website showcases my all learning projects in MERN stack web development.
+- [Power BI Projects](https://github.com/asadali27232/PowerBI-CaseStudies-Projects): Dashboards created for business case studies to learn Power BI.
+- [Multi Projects Website](https://asadali27232.github.io/Web_Dev_MERN/): A Website showcases my all learning projects in MERN stack web development.
 - [Console App](https://github.com/asadali27232/LibrarayMnagagementProject): A very different library management system using C++ on console.
 
 ### 📚 Education
