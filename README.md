@@ -29,8 +29,8 @@ Here are some of my notable projects:
 
 - [AFD Detector](https://github.com/asadali27232/AFD-Detector_DIP-Project): A project including Digital Image Processing CNN model, a website, and a React native mobile.
 - [AI Desktop Assistant](https://github.com/asadali27232/AI-Desktop-Assistant): An Open AI-based assistant that creates word documents and code files through voice commands.
-- [Data Science Projects](https://github.com/asadali27232/Python-DS-ML-Learning-Codebase/Projects): Some entry-level projects to master basics of python for Data Science.
-- [Website](https://asadali27232.github.io/Web_Dev_MERN/): A Website showcases my all learning projects in MERN stack web development.
+- [Data Science Projects](https://github.com/asadali27232/Python-DS-ML-Learning-Codebase): Some entry-level projects to master the basics of python for Data Science.
+- [Multi Project Website](https://asadali27232.github.io/Web_Dev_MERN/): A Website showcases my all learning projects in MERN stack web development.
 - [Console App](https://github.com/asadali27232/LibrarayMnagagementProject): A very different library management system using C++ on console.
 
 ### 📚 Education
