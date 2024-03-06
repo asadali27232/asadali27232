@@ -5,7 +5,7 @@
 
 As a dedicated and passionate computer science student, I am constantly striving to expand my skills and knowledge in the field. My expertise lies in MERN stack web development, React Native mobile development, Machine Learning, and Digital Image Processing. I am currently pursuing my interest in data science intending to become a data scientist in the future. With a strong foundation in programming, I approach every project with a detail-oriented mindset and a focus on delivering quality results. My GitHub profile reflects my experience, creativity, and continuous learning, and I am always excited to collaborate with other like-minded individuals to create innovative solutions.
 
-- 🔭 I’m currently working on [Digital Image Processing Project](https://github.com/asadali27232/AFD-Detector_DIP-Project) A project including CNN model, a website, and a React native mobile 
+- 🔭 I’m currently working on [Final Year Project @COMSATS](https://github.com/asadali27232/FYP) A project submitted in partial fulfilment of the COMSATS University Degree
 - 🌱 I’m currently learning data science and working on personal projects to apply my skills
 - 👯 I’m looking to collaborate on open-source projects related to web or mobile development
 - 💬 Ask me about anything related to MERN stack web development, React Native mobile development, or data science
@@ -28,7 +28,8 @@ As a dedicated and passionate computer science student, I am constantly striving
 
 Here are some of my notable projects:
 
-- [AFD Detector DIP](https://github.com/asadali27232/AFD-Detector_DIP-Project): A project including Digital Image Processing CNN model, a website, and a React native mobile.
+- [Final Year Project @COMSATS](https://github.com/asadali27232/FY): A project submitted in partial fulfilment of the COMSATS University Degree.
+- [AFD Detector DIP](https://github.com/asadali27232/AFD-Detector_DIP-Project): A project including a Digital Image Processing CNN model, a website, and a React native mobile.
 - [AI Desktop Assistant](https://github.com/asadali27232/AI-Desktop-Assistant): An Open AI-based assistant that creates word documents and code files through voice commands.
 - [Data Science Projects](https://github.com/asadali27232/Python-DS-ML-Learning-Codebase): Some entry-level projects to master the basics of python for Data Science.
 - [Power BI Projects](https://github.com/asadali27232/PowerBI-CaseStudies-Projects): Dashboards created for business case studies to learn Power BI.
@@ -37,7 +38,7 @@ Here are some of my notable projects:
 
 ### 📚 Education
 
-I'm currently pursuing my Bachelor's degree in Computer Science from [COMSATS University Lahore](https://lahore.comsats.edu.pk/default.aspx), expect to graduate in January 2025.
+I'm pursuing my Bachelor's degree in Computer Science from [COMSATS University Lahore](https://lahore.comsats.edu.pk/default.aspx), and I expect to graduate in January 2025.
 
 ### 🌐 Languages
 
