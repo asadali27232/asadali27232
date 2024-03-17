@@ -1,6 +1,5 @@
 ## Hi there, I'm Asad Ali! 👋
 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=asadali27232&style=flat-square&color=blue)
 
 As a dedicated and passionate computer science student, I am constantly striving to expand my skills and knowledge in the field. My expertise lies in MERN stack web development, React Native mobile development, Machine Learning, and Digital Image Processing. I am currently pursuing my interest in data science intending to become a data scientist in the future. With a strong foundation in programming, I approach every project with a detail-oriented mindset and a focus on delivering quality results. My GitHub profile reflects my experience, creativity, and continuous learning, and I am always excited to collaborate with other like-minded individuals to create innovative solutions.
@@ -57,6 +56,6 @@ I'm pursuing my Bachelor's degree in Computer Science from [COMSATS University L
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923074315952)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asadali27232@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadali27232/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/asadalighaffar)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/asadali27232)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/asadali27232)
 [![Personal Website](https://img.shields.io/badge/Personal%20Website-24292e?style=for-the-badge&logo=react&logoColor=white&color=purplr)](https://asadali27232.github.io/asadali27232)
