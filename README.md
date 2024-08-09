@@ -11,6 +11,9 @@ As a dedicated and passionate computer science student, I am constantly striving
 - 📫 How to reach me: [WhatsApp](https://wa.me/03074315952), [Email](mailto:asadali27232@gmail.com)
 - 😄 Pronouns: He/Him
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
+
 ### 🚀 Skills
   
   Here are some of the technologies and tools that I use and feel comfortable with:
@@ -53,9 +56,6 @@ I'm pursuing my Bachelor's degree in Computer Science from [COMSATS University L
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=asadali27232&theme=github_dark&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=asadali27232&limit=15&theme=github_dark&combine_all_yearly_contributions=true)
