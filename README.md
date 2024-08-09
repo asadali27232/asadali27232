@@ -52,10 +52,10 @@ I'm pursuing my Bachelor's degree in Computer Science from [COMSATS University L
 [![Asad Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadali27232&show_icons=true&theme=github_dark&hide_border=true&border_radius=4&rank_icon=percentile)](https://github.com/asadali27232/)
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=asadali27232&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=asadali27232&theme=github_dark&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=asadali27232&limit=15&theme=github_dark&combine_all_yearly_contributions=true)
