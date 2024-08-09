@@ -58,7 +58,7 @@ I'm pursuing my Bachelor's degree in Computer Science from [COMSATS University L
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=asadali27232&limit=15&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=asadali27232&limit=15&combine_all_yearly_contributions=true)
 
 ### 📫 Let's Connect
 
