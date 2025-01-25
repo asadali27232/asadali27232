@@ -81,6 +81,24 @@
             background-color: #52e3c2;
         }
 
+        .about {
+            padding: 50px 20px;
+            background-color: #112240;
+            text-align: center;
+        }
+
+        .about h3 {
+            font-size: 36px;
+            margin-bottom: 20px;
+        }
+
+        .about p {
+            font-size: 18px;
+            color: #8892b0;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
         .skills {
             padding: 50px 20px;
             text-align: center;
@@ -110,6 +128,60 @@
         .skills-list div h4 {
             color: #64ffda;
             margin-bottom: 10px;
+        }
+
+        .projects {
+            padding: 50px 20px;
+            background-color: #0a192f;
+            text-align: center;
+        }
+
+        .projects h3 {
+            font-size: 36px;
+            margin-bottom: 20px;
+        }
+
+        .project-list {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .project-list div {
+            background-color: #112240;
+            margin: 10px;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            flex: 1 1 300px;
+            max-width: 400px;
+        }
+
+        .project-list div h4 {
+            color: #64ffda;
+            margin-bottom: 10px;
+        }
+
+        .contact {
+            padding: 50px 20px;
+            background-color: #112240;
+            text-align: center;
+        }
+
+        .contact h3 {
+            font-size: 36px;
+            margin-bottom: 20px;
+        }
+
+        .contact p {
+            font-size: 18px;
+            color: #8892b0;
+        }
+
+        .contact a {
+            color: #64ffda;
+            text-decoration: none;
+            font-size: 18px;
         }
 
         footer {
@@ -148,6 +220,11 @@
         <a href="#projects">View My Work</a>
     </section>
 
+    <section id="about" class="about">
+        <h3>About Me</h3>
+        <p>I am a computer science student with a strong foundation in programming and a passion for innovation. I specialize in MERN stack web development, React Native mobile development, and data science. I aim to become a data scientist and contribute to impactful projects that make a difference.</p>
+    </section>
+
     <section id="skills" class="skills">
         <h3>Skills</h3>
         <div class="skills-list">
@@ -168,6 +245,35 @@
                 <p>Python, Excel, Seaborn, Power BI</p>
             </div>
         </div>
+    </section>
+
+    <section id="projects" class="projects">
+        <h3>Projects</h3>
+        <div class="project-list">
+            <div>
+                <h4>Final Year Project</h4>
+                <p>A comprehensive project showcasing my skills in web development, machine learning, and data science.</p>
+            </div>
+            <div>
+                <h4>AFD Detector</h4>
+                <p>A Digital Image Processing project using CNN, including a website and a mobile application.</p>
+            </div>
+            <div>
+                <h4>AI Desktop Assistant</h4>
+                <p>An AI-powered assistant that can create word documents and code files through voice commands.</p>
+            </div>
+            <div>
+                <h4>Power BI Dashboards</h4>
+                <p>Business case studies and dashboards created using Power BI to analyze and visualize data.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="contact">
+        <h3>Contact Me</h3>
+        <p>Feel free to reach out to me via:</p>
+        <p>Email: <a href="mailto:asadali@example.com">asadali@example.com</a></p>
+        <p>Phone: <a href="tel:+123456789">+123 456 789</a></p>
     </section>
 
     <footer>
