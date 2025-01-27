@@ -3,9 +3,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=asadali27232&style=flat-square&color=blue)
 
 ## 🚀 About Me
-I am a passionate **Data Scientist | Data Engineer | Data Analyst | Python | SQL | Software Engineer (Django, React, Node.js)** with expertise in Python, SQL, and cloud-based data science technologies. I have hands-on experience building ETL pipelines, working with data visualization tools, and developing web and mobile applications. 
+I am passionate about **Data Scientist | Data Engineer | Data Analyst | Software Engineer (Django, React, Node.js)** with expertise in Python, SQL, and cloud-based data science technologies. I have hands-on experience building ETL pipelines, working with data visualization tools, and developing web and mobile applications. 
 
-I am recently completed my **Bachelor's degree in Computer Science** at [COMSATS University Islamabad, Lahore Campus](https://lahore.comsats.edu.pk/default.aspx), graduated in **January 2025**. My focus lies in creating data-driven solutions and contributing to impactful projects.
+I have recently completed my **Bachelor's degree in Computer Science** at [COMSATS University Islamabad, Lahore Campus](https://lahore.comsats.edu.pk/default.aspx), graduated in **January 2025**. My focus lies in creating data-driven solutions and contributing to impactful projects.
 
 ---
 
@@ -75,7 +75,7 @@ A library management system built in C++ for the console.
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=asadali27232&theme=github_dark&hide_border=true&border_radius=4&card_width=500)](https://github.com/asadali27232/)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=asadali27232&theme=github-dark&hide_border=true&border_radius=4&card_width=500)](https://github.com/asadali27232)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadali27232&layout=pie&theme=github_dark&hide_border=true&border_radius=4&langs_count=6&hide=jupyter%20notebook,html)](https://github.com/asadali27232/)
 [![Asad Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadali27232&show_icons=true&theme=github_dark&hide_border=true&border_radius=4&rank_icon=percentile)](https://github.com/asadali27232/)
