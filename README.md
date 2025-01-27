@@ -77,7 +77,7 @@ A library management system built in C++ for the console.
 ## 📈 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadali27232&layout=pie&theme=github_dark&hide_border=true&border_radius=4&langs_count=6&hide=jupyter%20notebook,html)](https://github.com/asadali27232/)
-[![Asad Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadali27232&show_icons=true&theme=github_dark&hide_border=true&border_radius=4&rank_icon=percentile)](https://github.com/asadali27232/)
+[![Stats](https://github-readme-stats.vercel.app/api?username=asadali27232&show_icons=true&theme=github_dark&hide_border=true&border_radius=4&rank_icon=percentile)](https://github.com/asadali27232/)
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=asadali27232&limit=8&theme=github_dark&no-frame=false&no-bg=false&margin-w=4)
@@ -93,5 +93,4 @@ A library management system built in C++ for the console.
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asadali27232@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadali27232/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/asadali27232)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/asadali27232)
-[![Personal Website](https://img.shields.io/badge/Personal%20Website-24292e?style=for-the-badge&logo=react&logoColor=white&color=purplr)](https://asadali27232.github.io/asadali27232)
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-24292e?style=for-the-badge&logo=react&logoColor=white&color=purplr)](https://www.asadali.tech)
