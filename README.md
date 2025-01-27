@@ -1,55 +1,81 @@
-## Hi there, I'm Asad Ali! 👋
+# Hi there, I'm Asad Ali! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=asadali27232&style=flat-square&color=blue)
 
-As a dedicated and passionate computer science student, I am constantly striving to expand my skills and knowledge in the field. My expertise lies in MERN stack web development, React Native mobile development, Machine Learning, and Digital Image Processing. I am currently pursuing my interest in data science intending to become a data scientist in the future. With a strong foundation in programming, I approach every project with a detail-oriented mindset and a focus on delivering quality results. My GitHub profile reflects my experience, creativity, and continuous learning, and I am always excited to collaborate with other like-minded individuals to create innovative solutions.
+## 🚀 About Me
+I am passionate about **Data Scientist | Data Engineer | Data Analyst | Software Engineer (Django, React, Node.js)** with expertise in Python, SQL, and cloud-based data science technologies. I have hands-on experience building ETL pipelines, working with data visualization tools, and developing web and mobile applications. 
 
-- 🔭 I’m currently working on [Final Year Project @COMSATS](https://github.com/asadali27232/FYP) A project submitted in partial fulfilment of the University Degree
-- 🌱 I’m currently learning data science and working on personal projects to apply my skills
-- 👯 I’m looking to collaborate on open-source projects related to web or mobile development
-- 💬 Ask me about anything related to MERN stack web development, React Native mobile development, or data science
-- 📫 How to reach me: [WhatsApp](https://wa.me/03074315952), [Email](mailto:asadali27232@gmail.com)
-- 😄 Pronouns: He/Him
+I have recently completed my **Bachelor's degree in Computer Science** at [COMSATS University Islamabad, Lahore Campus](https://lahore.comsats.edu.pk/default.aspx), graduated in **January 2025**. My focus lies in creating data-driven solutions and contributing to impactful projects.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
+---
 
-### 🚀 Skills
-  
-  Here are some of the technologies and tools that I use and feel comfortable with:
-  
-- **Web Development:** HTML, CSS, JavaScript, ReactJS, Node.js, Express.js, MongoDB, SQL
-- **Mobile Development:** React Native, JavaScript, Expo CLI, CSS, APIs
-- **Machine learning:** Supervised, Unsupervised, Python, Numpy, Pandas, Matplotlib, Scikit-learn, Tensorflow
-- **Digital Image Processing:** Python, Numpy, Pandas, Matplotlib, Pillow, OpenCV, Matlab
-- **Data Warehousing:** Visual Studio, MS SQL Server, TSQL, Microsoft Analysis Services, Microsoft Integration Services, Weka
-- **Data Science:** Python, Excel, Pandas, NumPy, Matplotlib, Seaborn
-- **Power BI:** DAX, Data Cleaning, Data Modeling, Visualizations
+## 🔭 What I'm Working On
+- How to land a job in Data Science
 
-### 💻 Projects
+- Personal projects applying skills in **Data Science**, **Data Engineering and Visualization**, and **ETL pipeline development**.
 
-Here are some of my notable projects:
+---
 
-- [Final Year Project @COMSATS](https://github.com/asadali27232/FY): A project submitted in partial fulfilment of the COMSATS University Degree.
-- [AFD Detector DIP](https://github.com/asadali27232/AFD-Detector_DIP-Project): A project including a Digital Image Processing CNN model, a website, and a React native mobile.
-- [AI Desktop Assistant](https://github.com/asadali27232/AI-Desktop-Assistant): An Open AI-based assistant that creates word documents and code files through voice commands.
-- [Data Science Projects](https://github.com/asadali27232/Python-DS-ML-Learning-Codebase): Some entry-level projects to master the basics of python for Data Science.
-- [Power BI Projects](https://github.com/asadali27232/PowerBI-CaseStudies-Projects): Dashboards created for business case studies to learn Power BI.
-- [Multi Projects Website](https://asadali27232.github.io/Web_Dev_MERN/): A Website showcases my all learning projects in MERN stack web development.
-- [Console App](https://github.com/asadali27232/LibrarayMnagagementProject): A very different library management system using C++ on console.
+## 🌱 What I'm Learning
+I’m deepening my knowledge in:
+- **Data Science**: Advanced Python, SQL, and machine learning techniques.
+- **Cloud Data Warehousing**: Exploring AWS and modern data engineering practices.
+- **React & Django**: Building scalable frontends and backends for modern web applications.
 
-### 📚 Education
+---
 
-I'm pursuing my Bachelor's degree in Computer Science from [COMSATS University Lahore](https://lahore.comsats.edu.pk/default.aspx), and I expect to graduate in January 2025.
+## ✨ Skills
 
-### 🌐 Languages
+### **Data Engineering**
+- **Programming**: Python, SQL, ETL Pipeline Design
+- **Frameworks**: Apache Airflow, Pandas, NumPy
+- **Tools**: Docker, Microsoft SSIS/SSAS, AWS
+- **Databases**: PostgreSQL, MySQL, MongoDB, MSSQL
 
-- English (fluent)
-- Urdu (native)
+### **Data Science & Visualization**
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Visualization Tools**: Power BI, Tableau
+- **Machine Learning**: Supervised/Unsupervised Learning
 
-### 📈 GitHub Stats
+### **Software Engineering**
+- **Frontend**: React.js, Next.js, HTML, CSS, JavaScript
+- **Backend**: Django, Node.js, Express.js
+- **APIs**: RESTful API Design and Integration
+- **Databases**: PostgreSQL, MongoDB, MySQL
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=asadali27232&theme=github_dark&hide_border=true&border_radius=4&card_width=500)](https://github.com/asadali27232/)
+### **Soft Skills**
+- Analytical Thinking, Problem-Solving, Team Collaboration, Leadership
+
+---
+
+## 💻 Projects
+
+### [Final Year Project - CardioGraph Pro](https://github.com/asadali27232/FYP)
+A project designed for early detection and management of heart diseases using machine learning and ECG signal analysis.
+
+### [AFD Detector (DIP)](https://github.com/asadali27232/AFD-Detector_DIP-Project)
+An advanced project using **Digital Image Processing**, including a CNN model, a website, and a React Native mobile application.
+
+### [AI Desktop Assistant](https://github.com/asadali27232/AI-Desktop-Assistant)
+An Open AI-powered assistant capable of creating documents and code files through voice commands.
+
+### [Power BI Case Studies](https://github.com/asadali27232/PowerBI-CaseStudies-Projects)
+Business dashboards and case studies showcasing data cleaning, modeling, and visualization skills.
+
+### [Library Management System (Console App)](https://github.com/asadali27232/LibrarayMnagagementProject)
+A library management system built in C++ for the console.
+
+---
+
+## 🏆 Achievements
+- **Data Visualization Competition - Softec'24**  
+  Secured **1st place in Round 1** and **4th place overall**.
+
+---
+
+## 📈 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=asadali27232)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadali27232&layout=pie&theme=github_dark&hide_border=true&border_radius=4&langs_count=6&hide=jupyter%20notebook,html)](https://github.com/asadali27232/)
 [![Asad Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadali27232&show_icons=true&theme=github_dark&hide_border=true&border_radius=4&rank_icon=percentile)](https://github.com/asadali27232/)
@@ -60,7 +86,9 @@ I'm pursuing my Bachelor's degree in Computer Science from [COMSATS University L
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=asadali27232&limit=15&theme=github_dark&combine_all_yearly_contributions=true)
 
-### 📫 Let's Connect
+---
+
+## 📫 How to Reach Me
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923074315952)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asadali27232@gmail.com)
