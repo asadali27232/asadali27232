@@ -9,18 +9,19 @@ I have recently completed my **Bachelor's degree in Computer Science** at [COMSA
 
 ---
 
-## 🔭 What I'm Working On
-- How to land a job in Data Science
+## 🔭 Current Focus
+- Strategizing the path to securing a role in **Data Science**, **Data Engineering**, and **Data Visualization**, focusing on skill development, hands-on projects, and building a professional network.
 
-- Personal projects applying skills in **Data Science**, **Data Engineering and Visualization**, and **ETL pipeline development**.
+- Personal projects applying skills in **Data Science**, **Data Engineering & Visualization**, and **ETL pipeline development**, with ongoing learning through **Coursera** courses to enhance proficiency in these areas.
+
 
 ---
 
 ## 🌱 What I'm Learning
-I’m deepening my knowledge in:
-- **Data Science**: Advanced Python, SQL, and machine learning techniques.
-- **Cloud Data Warehousing**: Exploring AWS and modern data engineering practices.
-- **React & Django**: Building scalable frontends and backends for modern web applications.
+- **Data Science**: Python, SQL, Machine Learning, Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch
+- **Data Engineering**: Apache Kafka, Apache Airflow, Kafka Streams, Stream Processing
+- **Cloud Data Warehousing**: AWS, Google Cloud, Snowflake, BigQuery, Data Pipelines
+- **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn, Plotly, Dash
 
 ---
 
@@ -74,8 +75,6 @@ A library management system built in C++ for the console.
 ---
 
 ## 📈 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=asadali27232)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadali27232&layout=pie&theme=github_dark&hide_border=true&border_radius=4&langs_count=6&hide=jupyter%20notebook,html)](https://github.com/asadali27232/)
 [![Asad Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadali27232&show_icons=true&theme=github_dark&hide_border=true&border_radius=4&rank_icon=percentile)](https://github.com/asadali27232/)
