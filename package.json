@@ -1,7 +1,7 @@
 {
   "private": true,
-  "name": "asad-portfolio",
-  "version": "0.1.0",
+  "name": "asad-ali",
+  "version": "1.2.1",
   "homepage": "https://www.asadali.tech",
   "scripts": {
     "build": "react-scripts build",
