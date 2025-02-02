@@ -9,7 +9,7 @@ const seo = {
   description:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
-    title: "Asad Ali Portfolio",
+    title: "Asad Ali",
     type: "website",
     url: "http://asadali.tech/",
   },
@@ -64,9 +64,9 @@ const socialMediaLinks = [
   },
   {
     name: "Twitter",
-    link: "https://x.com/asadali27232/",
-    fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
-    backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
+    link: "https://wa.me/923074315952/",
+    fontAwesomeIcon: "fa-whatsapp", // Reference https://fontawesome.com/icons/twitter?style=brands
+    backgroundColor: "#26d367", // Reference https://simpleicons.org/?q=twitter
   },
   {
     name: "Facebook",
@@ -88,11 +88,54 @@ const skills = {
       title: "Data Science & Data Engineering",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+        "Experience of working with Data Warehousing and Data Analysis projects",
+        "Developing highly scalable production ready models for various deeplearning and statistical use cases",
+        "Complex quantitative modelling for dynamic forecasting and time series analysis",
       ],
       softwareSkills: [
+        {
+          skillName: "Python",
+          fontAwesomeClassname: "ion-logo-python",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "Apache Spark",
+          fontAwesomeClassname: "simple-icons:apachespark",
+          style: {
+            color: "#e35a16",
+          },
+        },
+        {
+          skillName: "Apache Airflow",
+          fontAwesomeClassname: "simple-icons:apacheairflow",
+          style: {
+            color: "#00af43",
+          },
+        },
+        {
+          skillName: "Apache Kafka",
+          fontAwesomeClassname: "simple-icons:apachekafka",
+          style: {
+            color: "#000000",
+          },
+        },
+        {
+          skillName: "Snowflake",
+          fontAwesomeClassname: "simple-icons:snowflake",
+          style: {
+            color: "#29b5e8",
+          },
+        },
+        {
+          skillName: "Databricks",
+          fontAwesomeClassname: "simple-icons:databricks",
+          style: {
+            color: "#ff3721",
+          },
+        },
         {
           skillName: "Tensorflow",
           fontAwesomeClassname: "logos-tensorflow",
@@ -109,11 +152,11 @@ const skills = {
           },
         },
         {
-          skillName: "Python",
-          fontAwesomeClassname: "ion-logo-python",
+          skillName: "scikit-learn",
+          fontAwesomeClassname: "simple-icons:scikitlearn",
           style: {
             backgroundColor: "transparent",
-            color: "#3776AB",
+            color: "#f89a36",
           },
         },
         {
@@ -124,31 +167,17 @@ const skills = {
           },
         },
         {
-          skillName: "Kubernetes",
-          fontAwesomeClassname: "simple-icons:kubernetes",
-          style: {
-            color: "#326CE5",
-          },
-        },
-        {
-          skillName: "GCP",
-          fontAwesomeClassname: "simple-icons:googlecloud",
-          style: {
-            color: "#4285F4",
-          },
-        },
-        {
           skillName: "AWS",
           fontAwesomeClassname: "simple-icons:amazonaws",
           style: {
-            color: "#FF9900",
+            color: "#202c3c",
           },
         },
         {
-          skillName: "Azure",
-          fontAwesomeClassname: "simple-icons:microsoftazure",
+          skillName: "Power BI",
+          fontAwesomeClassname: "simple-icons:powerbi",
           style: {
-            color: "#0089D6",
+            color: "#e4a810",
           },
         },
       ],
@@ -158,7 +187,7 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Building resposive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
+        "⚡ Developing backend applications using Django, focusing on database management and API development.",
         "⚡ Creating application backend in Node, Express & Flask",
       ],
       softwareSkills: [
@@ -297,22 +326,6 @@ const competitiveSites = {
       },
       profileLink: "https://www.codechef.com/users/asadali27232",
     },
-    {
-      siteName: "Codeforces",
-      iconifyClassname: "simple-icons:codeforces",
-      style: {
-        color: "#1F8ACB",
-      },
-      profileLink: "https://codeforces.com/profile/asadali27232",
-    },
-    {
-      siteName: "Hackerearth",
-      iconifyClassname: "simple-icons:hackerearth",
-      style: {
-        color: "#323754",
-      },
-      profileLink: "https://www.hackerearth.com/@asadali27232/",
-    },
   ],
 };
 
@@ -325,8 +338,8 @@ const degrees = {
       alt_name: "COMSATS",
       duration: "Feb 2021 - Jan 2025",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
+        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI, ML etc.",
+        "⚡ Apart from this, I have done courses on Data Science, Deep Learning, Cloud Computing and Web Technologies.",
         "⚡ Gained hands-on experience with Python, SQL, data modelling, and relational databases, including Data Warehousing and Data Mining.",
       ],
       website_link: "https://lahore.comsats.edu.pk/default.aspx",
@@ -338,7 +351,7 @@ const certifications = {
   certifications: [
     {
       title: "Crash Course on Python",
-      subtitle: "- Google · Course",
+      subtitle: "Google · Course",
       logo_path: "google_logo.png",
       certificate_link:
         "https://www.coursera.org/account/accomplishments/certificate/9CTDEATG9N9Y",
@@ -347,7 +360,7 @@ const certifications = {
     },
     {
       title: "Introduction to Data Analytics",
-      subtitle: "- IBM · Course",
+      subtitle: "IBM · Course",
       logo_path: "ibm_logo.png",
       certificate_link:
         "https://www.coursera.org/account/accomplishments/certificate/N2Z8A4XXKFD3",
@@ -356,7 +369,7 @@ const certifications = {
     },
     {
       title: "Data Visualization and Dashboards with Excel and Cognos",
-      subtitle: "- IBM · Course",
+      subtitle: "IBM · Course",
       logo_path: "ibm_logo.png",
       certificate_link:
         "https://www.coursera.org/account/accomplishments/certificate/QNRATRNUHUC8",
@@ -364,48 +377,53 @@ const certifications = {
       color_code: "#1F70C199",
     },
     {
-      title: "Programming with JavaScript",
-      subtitle: "- Meta · Course",
+      title: "Introduction to Back-End Development",
+      subtitle: "Meta · Course",
       logo_path: "meta_logo.png",
-      certificate_link: "",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/certificate/8BQOH65EH678",
+      alt_name: "Meta",
+      color_code: "#2A73CC",
+    },
+    {
+      title: "Programming with JavaScript",
+      subtitle: "Meta · Course",
+      logo_path: "meta_logo.png",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/certificate/2ICTIIVSV67N",
       alt_name: "Meta",
       color_code: "#2A73CC",
     },
     {
       title: "Introduction to Front-End Development",
-      subtitle: "- Meta · Course",
+      subtitle: "Meta · Course",
       logo_path: "meta_logo.png",
-      certificate_link: "",
-      alt_name: "Meta",
-      color_code: "#2A73CC",
-    },
-    {
-      title: "Introduction to Back-End Development",
-      subtitle: "- Meta · Course",
-      logo_path: "meta_logo.png",
-      certificate_link: "",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/certificate/1Z7FHE84EXZO",
       alt_name: "Meta",
       color_code: "#2A73CC",
     },
     {
       title: "HTML and CSS in depth",
-      subtitle: "- Meta · Course",
+      subtitle: "Meta · Course",
       logo_path: "meta_logo.png",
-      certificate_link: "",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/certificate/47GF7OEV3TUI",
       alt_name: "Meta",
       color_code: "#2A73CC",
     },
     {
       title: "Version Control",
-      subtitle: "- Meta · Course",
+      subtitle: "Meta · Course",
       logo_path: "meta_logo.png",
-      certificate_link: "",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/certificate/H8HGFKA0K6VK",
       alt_name: "Meta",
       color_code: "#2A73CC",
     },
     {
       title: "Introduction to Git and GitHub",
-      subtitle: "- Google · Course",
+      subtitle: "Google · Course",
       logo_path: "google_logo.png",
       certificate_link:
         "https://www.coursera.org/account/accomplishments/certificate/MLT5WJDJAZEU",

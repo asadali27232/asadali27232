@@ -69,7 +69,7 @@ class Contact extends Component {
                 </p>
                 <div className="blogsite-btn-div">
                   <Button
-                    text="Visit My Blogsite"
+                    text="Visit My GitHub"
                     newTab={true}
                     href={blogSection.link}
                     theme={theme}
@@ -111,6 +111,18 @@ class Contact extends Component {
                   className="address-heading-text"
                   style={{ color: theme.text }}
                 >
+                  Email
+                </h1>
+                <p
+                  className="contact-header-detail-text subTitle"
+                  style={{ color: theme.secondaryText }}
+                >
+                  asadali27232@gmail.com
+                </p>
+                <h1
+                  className="address-heading-text"
+                  style={{ color: theme.text }}
+                >
                   {phoneSection["title"]}
                 </h1>
                 <p
@@ -119,11 +131,12 @@ class Contact extends Component {
                 >
                   {phoneSection["subtitle"]}
                 </p>
+
                 <div className="address-btn-div">
                   <Button
-                    text="Visit on Google Maps"
+                    text="WhatsApp Me"
                     newTab={true}
-                    href={addressSection.location_map_link}
+                    href="https://wa.me/923074315952"
                     theme={theme}
                   />
                 </div>
