@@ -11,6 +11,18 @@ export const blueTheme = {
   headerColor: "#0E6BA877",
 };
 
+export const blackTheme = {
+  body: "#EDF9FE",
+  text: "#14213d",
+  highlight: "#ffffff",
+  dark: "#000000",
+  secondaryText: "#5A6377",
+  imageHighlight: "#0E6BA8",
+  compImgHighlight: "#E6E6E6",
+  jacketColor: "#8d99ae",
+  headerColor: "#0E6BA877",
+};
+
 export const brownTheme = {
   body: "#FFFEFD",
   text: "#5D2A42",
@@ -57,18 +69,6 @@ export const redTheme = {
   compImgHighlight: "#E6E6E6",
   jacketColor: "#9d0208",
   headerColor: "#dc2f0277",
-};
-
-export const blackTheme = {
-  body: "#E5E5E5",
-  text: "#14213d",
-  highlight: "#ffffff",
-  dark: "#000000",
-  secondaryText: "#5A6377",
-  imageHighlight: "#fca311",
-  compImgHighlight: "#E6E6E6",
-  jacketColor: "#8d99ae",
-  headerColor: "#fca31177",
 };
 
 export const pinkTheme = {
@@ -119,4 +119,4 @@ export const orangeTheme = {
   headerColor: "#FF6B3577",
 };
 
-export const chosenTheme = blueTheme;
+export const chosenTheme = blackTheme;
