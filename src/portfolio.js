@@ -180,9 +180,9 @@ const skills = {
       title: "Software Engineer",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building resposive website front end using React-Redux",
-        "⚡ Developing backend applications using Django, focusing on database management and API development.",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "Building resposive website front end using React-Redux",
+        "Developing backend applications using Django, focusing on database management and API development.",
+        "Creating application backend in Node, Express & Flask",
       ],
       softwareSkills: [
         {
@@ -332,9 +332,9 @@ const degrees = {
       alt_name: "COMSATS",
       duration: "Feb 2021 - Jan 2025",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI, ML etc.",
-        "⚡ Apart from this, I have done courses on Data Science, Deep Learning, Cloud Computing and Web Technologies.",
-        "⚡ Gained hands-on experience with Python, SQL, data modelling, and relational databases, including Data Warehousing and Data Mining.",
+        "I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI, ML etc.",
+        "Apart from this, I have done courses on Data Science, Deep Learning, Cloud Computing and Web Technologies.",
+        "Gained hands-on experience with Python, SQL, data modelling, and relational databases, including Data Warehousing and Data Mining.",
       ],
       website_link: "https://lahore.comsats.edu.pk/default.aspx",
     },
