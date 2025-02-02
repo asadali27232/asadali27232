@@ -19,7 +19,7 @@ const seo = {
 const greeting = {
   title: "Asad Ali",
   logo_name: "AsadAli",
-  nickname: "Data Scientist | Software Engineer",
+  nickname: "Data Scientist | SE",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
@@ -49,12 +49,6 @@ const socialMediaLinks = [
     link: "https://www.linkedin.com/in/asadali27232/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
-  },
-  {
-    name: "YouTube",
-    link: "https://www.youtube.com/@asadali.27232",
-    fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
-    backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
   },
   {
     name: "Gmail",
