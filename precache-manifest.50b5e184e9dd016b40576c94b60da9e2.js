@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ba81e9513289547771f462ed2af5d93c",
+    "revision": "95370f5d31b1fb68596eb9358ab4632d",
     "url": "/index.html"
   },
   {
-    "revision": "73e0812ddc226c4a013f",
-    "url": "/static/css/main.06f16f45.chunk.css"
+    "revision": "a3f3227d78f18186d86d",
+    "url": "/static/css/main.0e1c3c4a.chunk.css"
   },
   {
-    "revision": "c61ecb43714115b82982",
-    "url": "/static/js/2.1efdc99b.chunk.js"
+    "revision": "6b7ee4e4b5022cb8bd0c",
+    "url": "/static/js/2.fedda4e1.chunk.js"
   },
   {
-    "revision": "73e0812ddc226c4a013f",
-    "url": "/static/js/main.1ade76a3.chunk.js"
+    "revision": "a3f3227d78f18186d86d",
+    "url": "/static/js/main.7260b824.chunk.js"
   },
   {
     "revision": "596478b2fe086602f02e",
@@ -74,6 +74,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fee92c18b1cfbd1faa704c51047f113d",
     "url": "/static/media/codeInLogo.fee92c18.png"
+  },
+  {
+    "revision": "9cbd75006ef56d14c97d6f062f6a6c62",
+    "url": "/static/media/comsats_logo.9cbd7500.png"
   },
   {
     "revision": "5f915405511f649dad433a6db9adbff4",
@@ -188,8 +192,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/googleAssistant.a6addc3f.svg"
   },
   {
-    "revision": "d3fccbe1db76b96f4f320d9c0f7da30c",
-    "url": "/static/media/ibm_logo.d3fccbe1.png"
+    "revision": "5ca037297dd240b740f03ff63c846063",
+    "url": "/static/media/ibm_logo.5ca03729.png"
   },
   {
     "revision": "571a8584e69ecfbe326c8b8385fbbf54",
@@ -198,6 +202,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "29152cf756a1facead5393c32e373371",
     "url": "/static/media/intel_logo.29152cf7.jpg"
+  },
+  {
+    "revision": "f2d89f39c683c62adadd3c7e8e47af3b",
+    "url": "/static/media/intime_logo.f2d89f39.png"
   },
   {
     "revision": "5b4a6449747ec61a6d9aa874f2a9ceba",
@@ -212,6 +220,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/manOnTable.83ac24fb.svg"
   },
   {
+    "revision": "1096ce7ce55a0f4702d049ddd101ba4b",
+    "url": "/static/media/meta_logo.1096ce7c.png"
+  },
+  {
     "revision": "069938a84edd6ebf383c318e9feb5d4c",
     "url": "/static/media/muffito_logo.069938a8.png"
   },
@@ -220,8 +232,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/nptel_logo.95a12a2b.png"
   },
   {
+    "revision": "ccd103a901296b4b9d8222a4b276b2a9",
+    "url": "/static/media/pitb_logo.ccd103a9.png"
+  },
+  {
     "revision": "414dfbd98516b39255a3e22ed90b3f7d",
     "url": "/static/media/portfolio.414dfbd9.gif"
+  },
+  {
+    "revision": "ad4f6e873ff3f21b431a8f3b26ce8c6e",
+    "url": "/static/media/pp.ad4f6e87.png"
   },
   {
     "revision": "5faf790badc18fa9030f94836ece1df1",
