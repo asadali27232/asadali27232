@@ -7,7 +7,7 @@ const settings = {
 const seo = {
   title: "Asad Ali",
   description:
-    "Passionate about Data Science, Data Engineering, Data Analysis and a Software Engineer (Django, React, Node.js) with expertise in Python, JavaScript, SQL, and cloud-based data science technologies.",
+    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
     title: "Asad Ali Portfolio",
     type: "website",
@@ -21,7 +21,7 @@ const greeting = {
   logo_name: "AsadAli",
   nickname: "Data Scientist | Software Engineer",
   subTitle:
-    "Passionate about Data Science, Data Engineering, Data Analysis and a Software Engineer (Django, React, Node.js) with expertise in Python, JavaScript, SQL, and cloud-based data science technologies.",
+    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
     "https://drive.google.com/drive/folders/1x3t0hOayDJxR9qdBI2YbpxIo0AyylIhU?usp=sharing",
   portfolio_repository: "https://github.com/asadali27232/asadali27232",
