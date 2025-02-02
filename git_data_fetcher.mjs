@@ -1,6 +1,6 @@
-import fetch from 'node-fetch';
-import fs from 'fs';
-require("dotenv").config();
+import fetch from "node-fetch";
+import fs from "fs";
+import "dotenv/config";
 
 const openSource = {
   githubConvertedToken: process.env.GITHUB_TOKEN,
