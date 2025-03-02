@@ -76,14 +76,14 @@ A library management system built in C++ for the console.
 
 ## 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadali27232&layout=pie&theme=github_dark&hide_border=true&border_radius=4&langs_count=6&hide=html,CSS)](https://github.com/asadali27232/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadali27232&layout=pie&theme=github_dark&hide_border=true&border_radius=4&langs_count=5&hide=html,CSS)]()
 [![Stats](https://github-readme-stats.vercel.app/api?username=asadali27232&show_icons=true&theme=github_dark&hide_border=true&border_radius=4&rank_icon=percentile)](https://github.com/asadali27232/)
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=asadali27232&limit=8&theme=github_dark&no-frame=false&no-bg=false&margin-w=4)
+[![](https://github-profile-trophy.vercel.app/?username=asadali27232&limit=8&theme=github_dark&no-frame=false&no-bg=false&margin-w=4)]()
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=asadali27232&limit=15&theme=github_dark&combine_all_yearly_contributions=true)
+[![](https://github-contributor-stats.vercel.app/api?username=asadali27232&limit=15&theme=github_dark&combine_all_yearly_contributions=true)]()
 
 ---
 
