@@ -7,30 +7,6 @@ I am passionate about **Data Scientist | Data Engineer | Data Analyst | Software
 
 I have recently completed my **Bachelor's degree in Computer Science** at [COMSATS University Islamabad, Lahore Campus](https://lahore.comsats.edu.pk/default.aspx), graduated in **January 2025**. My focus lies in creating data-driven solutions and contributing to impactful projects.
 
-
-
-Here’s the improved and complete version of your resignation email:
-
-
----
-
-Subject: Resignation as Associate Python Developer
-
-Dear HR,
-
-I am writing to inform you of my resignation from the position of Associate Python Developer at ML1, effective from tomorrow.
-
-I have been offered a better opportunity that aligns with my career growth and future goals. I truly appreciate the support and learning experiences I’ve gained during my time here and will ensure a smooth transition of my responsibilities before my departure.
-
-Best regards,
-Asad Ali
-Associate Python Developer
-
-
----
-
-Would you like me to make it sound a bit more formal and polished for HR, or keep it short and simple like this version?
-
 ---
 
 ## 🔭 Current Focus
