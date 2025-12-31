@@ -1,102 +1,118 @@
+<div align="center">
+
+  <a href="https://www.datacamp.com/certificate/DE0015440477781">
+    <img src="datacamp_banner.png" alt="DataCamp Data Engineer Certification" width="100%" />
+  </a>
+
 # Hi there, I'm Asad Ali! 👋
 
-[![DataCamp Data Engineer Certification](datacamp_banner.png)](https://www.datacamp.com/certificate/DE0015440477781)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Associate+Data+Engineer;Snowflake+Data+Engineer;ETL+Pipeline+Specialist;Python+%26+SQL+Expert)](https://git.io/typing-svg)
+
+  <a href="https://www.linkedin.com/in/asadali27232/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:asadali27232@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/923074315952">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://asadali27232.github.io/asadali27232/">
+    <img src="https://img.shields.io/badge/Personal%20Website-24292e?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+
+</div>
+
+<br />
 
 ## 🚀 About Me
 
-I am an **Associate Data Engineer** with hands-on experience building and optimizing ETL pipelines, managing multi-source data ingestion, and working with cloud-based data warehouses including **Snowflake**, **BigQuery**, and **AWS Redshift**.
+> I am an **Associate Data Engineer** with hands-on experience building and optimizing ETL pipelines, managing multi-source data ingestion, and working with cloud-based data warehouses including **Snowflake**, **BigQuery**, and **AWS Redshift**.
 
-Skilled in **Python**, **SQL**, **dbt**, and modern data engineering tools such as **Apache Airflow**, **Spark**, and **AWS Glue**, I have expertise in data modeling, pipeline orchestration, and ensuring data quality, reliability, and scalability. I am experienced in transforming raw data into high-quality, analytics-ready datasets, developing data-driven solutions, and contributing to large-scale projects with hundreds of tables and multi-channel pipelines.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,aws,gcp,snowflake,docker,kafka,bash" />
+</div>
 
 ---
 
 ## 💼 Work Experience
 
-### **Associate Data Engineer**
+#### 🏢 **Associate Data Engineer** | Devsinc
 
-**Devsinc | Lahore** _(Dec 2025 – Present)_
+_Dec 2025 – Present_
 
--   Working on a large data project in **Snowflake**, managing data from multiple ingestion channels, and supporting ETL scheduling, monitoring, and reliability for production pipelines.
--   Managing historical data pipelines from **BigQuery**, operating ETLs deployed on **AWS MWAA**, and building scalable **dbt** transformations to standardize models, improve lineage, and ensure high-quality, trusted data for analytics.
+-   Orchestrating large-scale **Snowflake** pipelines and managing multi-channel data ingestion.
+-   Developing scalable **dbt** transformations on **AWS MWAA** for high-quality analytics.
 
-### **Associate Python Developer**
+#### 🏢 **Associate Python Developer** | Machine Learning 1 Pvt. Ltd
 
-**Machine Learning 1 Pvt. Ltd | Lahore** _(Mar 2025 – Nov 2025)_
+_Mar 2025 – Nov 2025_
 
--   Managed a large Python-based validation microservice for a global KYC product, ingesting outputs from multiple **ML models** to perform data validation, standardization, and quality controls across a high volume of traffic.
--   Implemented rule-driven checks, including regex fallbacks, anomaly detection, and checks preventing hallucinations and issues due to cropped artifacts, improving accuracy, reducing bad responses, and strengthening compliance in production.
+-   Managed a validation microservice for a global **KYC product**.
+-   Implemented rule-driven checks and **ML** output validation for high-volume traffic.
 
-### **Associate Data Engineer**
+#### 🏢 **Associate Data Engineer** | World Wide Admissions Hub
 
-**World Wide Admissions Hub | Lahore** _(Aug 2024 – Feb 2025)_
+_Aug 2024 – Feb 2025_
 
--   Developed web scraping scripts, streamlining raw data collection from multiple sources, and increasing data extraction efficiency from 1 website per day to 100 websites per day, resulting in a **100% improvement**.
--   Designed and implemented an **AI-based ETL pipeline** using Python, transforming, cleaning, and ingesting data, thereby enhancing processing efficiency and ensuring consistent, high-quality data for the web app and AI model.
-
----
-
-## ✨ Skills
-
-### **Core Data Engineering**
-
--   **Programming**: Python, SQL
--   **Frameworks & Tools**: Apache Airflow, Apache Spark, dbt, Apache Kafka, PySpark, Pandas
--   **Cloud Components**: AWS (Glue, Lambda, Redshift, S3, Athena, MWAA), BigQuery, Snowflake, Databricks
--   **Infrastructure**: Docker, Terraform
-
-### **Databases**
-
--   **Relational**: PostgreSQL, MySQL, MSSQL
--   **NoSQL**: MongoDB
-
-### **Soft Skills**
-
--   Problem-Solving, Team Collaboration, Continuous Learning
+-   Designed an **AI-based ETL pipeline** improving data extraction efficiency by **100%**.
+-   Automated scraping and processing for web app integration.
 
 ---
 
-## 💻 Projects
+## 💻 Featured Projects
 
-### [Simple Cloud-Based Data Pipeline with Apache Airflow on AWS EC2](https://github.com/asadali27232/) _(Dec 2025)_
-
-This project implements an end-to-end data engineering pipeline using **Apache Airflow** deployed on an **AWS EC2** Ubuntu instance. The pipeline orchestrates the extraction, transformation, and loading (ETL) of NYC 311 Service Request data through a series of automated tasks. Raw JSON data is fetched from the NYC Open Data API, processed using **Pandas** for data cleaning and standardization, and ultimately stored in **Amazon S3** in Parquet format for optimized query performance.
-
-### [Terraform-Powered AWS Glue ETL: Infrastructure as Code](https://github.com/asadali27232/) _(Dec 2025)_
-
-ETL pipeline using **Terraform** to automate AWS infrastructure provisioning for **Glue**, **RDS**, **S3**, and **Athena**. The system extracts MySQL retail data, transforms it into a star schema via **PySpark** jobs, and loads Parquet-optimized files into S3 for serverless analytics, demonstrating Infrastructure as Code, dimensional modeling, and cost-efficient cloud data engineering.
-
-### [YouTube's Data Engineering: ETL & Cloud Pipeline](https://github.com/asadali27232/) _(Dec 2025)_
-
-This project demonstrates a data engineering pipeline implementation, including ingestion, ETL, and cloud-based storage using **AWS**. It processes structured and semi-structured data to create a clean dataset and builds an interactive **Power BI** dashboard for visualization. The system is scalable, automated, and cloud-based, showcasing real-world data engineering practices.
-
-### [CardioGraph Pro - FYP](https://github.com/asadali27232/FYP) _(Feb 2024 – Jan 2025)_
-
-Led the handling and analysis of 20,000 ECG signal files (time-series data) using Python, performing EDA with Pandas and Matplotlib, basic data cleaning, and designing a data pipeline to integrate with a machine learning model and web interface, ensuring efficient and accurate data processing.
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <h3>☁️ YouTube Data Pipeline</h3>
+      <p><strong>AWS (Glue, S3, Lambda) • Power BI</strong></p>
+      <p>Scalable ETL pipeline handling ingestion and storage for authorized YouTube data. Built interactive analytical dashboards.</p>
+    </td>
+    <td width="50%" align="center">
+      <h3>🛠️ Terraform AWS Glue ETL</h3>
+      <p><strong>Terraform • PySpark • Glue • Athena</strong></p>
+      <p>Infrastructure as Code (IaC) pipeline provisioning AWS resources. Transforms MySQL retail data into a star schema for analytics.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>⚡ Serverless Airflow Pipeline</h3>
+      <p><strong>Apache Airflow • AWS EC2 • Pandas</strong></p>
+      <p>End-to-end pipeline orchestrating NYC 311 Service Request data. Automated tasks for extraction, cleaning, and Parquet loading.</p>
+    </td>
+    <td width="50%" align="center">
+      <h3>💓 CardioGraph Pro</h3>
+      <p><strong>Python • ML • Time-Series Analysis</strong></p>
+      <p>Analyzed 20,000+ ECG signals for early heart disease detection. Integrated ML models with a responsive web interface.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🏆 Certifications
 
--   [**Certified Data Engineer** - DataCamp](https://www.datacamp.com/certificate/DE0015440477781)
--   [**Snowflake Data Engineering** - Snowflake](https://learn.snowflake.com/en/certifications/snowpro-advanced-dataengineer/)
--   [**Databricks for Data Engineering** - Databricks](https://www.databricks.com/learn/certification/data-engineer-associate)
--   [**dbt Fundamentals** - dbt Labs](https://www.getdbt.com/dbt-learn/)
--   [**Introduction to Data Engineering** - DeepLearning.AI](https://www.coursera.org/learn/introduction-to-data-engineering)
--   [**Programming in Python** - Meta](https://www.coursera.org/learn/programming-in-python-meta)
--   [**Querying Databases with SQL** - IBM](https://www.coursera.org/learn/sql-practical-introduction-for-querying-databases)
+<div align="center">
 
----
+| Certification                                                                                                  | Authority       |
+| :------------------------------------------------------------------------------------------------------------- | :-------------- |
+| **[Certified Data Engineer](https://www.datacamp.com/certificate/DE0015440477781)**                            | DataCamp        |
+| **[Snowflake Data Engineering](https://learn.snowflake.com/en/certifications/snowpro-advanced-dataengineer/)** | Snowflake       |
+| **[Databricks Data Engineer](https://www.databricks.com/learn/certification/data-engineer-associate)**         | Databricks      |
+| **[dbt Fundamentals](https://www.getdbt.com/dbt-learn/)**                                                      | dbt Labs        |
+| **[Intro to Data Engineering](https://www.coursera.org/learn/introduction-to-data-engineering)**               | DeepLearning.AI |
 
-## 🎓 Education
+</div>
 
-**BS Computer Science** | COMSATS University Islamabad, Lahore Campus _(Feb 2021 – Jan 2025)_
-Developed a strong foundation in programming and computer science principles, with specialized knowledge in data engineering, data warehousing, and database technologies.
+<br />
 
----
-
-## 📫 How to Reach Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadali27232/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asadali27232@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923074315952)
-[![Personal Website](https://img.shields.io/badge/Personal%20Website-24292e?style=for-the-badge&logo=react&logoColor=white&color=purplr)](https://asadali27232.github.io/asadali27232/)
+<!--
+## 📈 GitHub Stats
+<div align="center">
+  The GitHub Stats service is currently down (HTTP 503).
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadali27232&layout=pie&theme=github_dark&hide_border=true&border_radius=4&langs_count=5&hide=html,CSS" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asadali27232&show_icons=true&theme=github_dark&hide_border=true&border_radius=4&rank_icon=percentile" />
+</div>
+-->
