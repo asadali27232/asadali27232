@@ -9,6 +9,9 @@
 <a href="https://github.com/asadali27232">
   <img src="https://img.shields.io/github/followers/asadali27232?style=for-the-badge&color=0d1117&labelColor=000000&logo=github&logoColor=white" />
 </a>
+<a href="pipeline.html">
+  <img src="https://img.shields.io/badge/INTERACTIVE-PIPELINE_PORTAL-00FFFF?style=for-the-badge&labelColor=000000&logo=googleanalytics&logoColor=black" />
+</a>
 <a href="https://linkedin.com/in/asadali27232">
   <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0d1117?style=for-the-badge&labelColor=000000&logo=linkedin&logoColor=0077b5" />
 </a>
