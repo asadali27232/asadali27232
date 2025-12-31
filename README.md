@@ -1,243 +1,102 @@
-<div align="center" style="font-family: monospace;">
+# Hi there, I'm Asad Ali! 👋
 
-<!-- ============================================== -->
-<!-- PHASE 1: DATA SOURCE (HEADER) -->
-<!-- ============================================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=ASAD%20ALI%20PIPELINE&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35" width="100%" />
+[![DataCamp Data Engineer Certification](datacamp_banner.png)](https://www.datacamp.com/certificate/DE0015440477781)
 
-<br>
-<a href="https://www.datacamp.com/certificate/DE0015440477781">
-  <img src="datacamp_banner.png" width="600" style="border-radius: 12px; border: 1px solid #30363d; box-shadow: 0 0 20px rgba(88, 166, 255, 0.2);" />
-</a>
+## 🚀 About Me
 
-<br><br>
+I am an **Associate Data Engineer** with hands-on experience building and optimizing ETL pipelines, managing multi-source data ingestion, and working with cloud-based data warehouses including **Snowflake**, **BigQuery**, and **AWS Redshift**.
 
-<!-- TERMINAL BIO -->
-<div align="left" style="max-width: 600px; background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
-  <span style="color: #8b949e; font-size: 12px;">root@asad-etl:~/config</span>
-  <br>
-  <span style="color: #ff7b72;">$</span> <span style="color: #e6edf3;">cat source_config.json</span>
-  <br><br>
-  <span style="color: #e6edf3; font-size: 13px;">
-  {<br>
-  &nbsp;&nbsp;"role": "<span style="color: #79c0ff;">Associate Data Engineer</span>",<br>
-  &nbsp;&nbsp;"location": "Lahore, PK",<br>
-  &nbsp;&nbsp;"mission": "Transforming Raw Chaos -> Analytical Gold",<br>
-  &nbsp;&nbsp;"status": "<span style="color: #3fb950;">ACTIVE</span>"<br>
-  }
-  </span>
-</div>
+Skilled in **Python**, **SQL**, **dbt**, and modern data engineering tools such as **Apache Airflow**, **Spark**, and **AWS Glue**, I have expertise in data modeling, pipeline orchestration, and ensuring data quality, reliability, and scalability. I am experienced in transforming raw data into high-quality, analytics-ready datasets, developing data-driven solutions, and contributing to large-scale projects with hundreds of tables and multi-channel pipelines.
 
-<br>
-<!-- FLOW CONNECTOR -->
-<img src="https://img.shields.io/badge/⬇_DATA_INGESTION_STARTED-0d1117?style=for-the-badge&labelColor=30363d" />
-<br><br>
+---
 
-<!-- ============================================== -->
-<!-- PHASE 2: PROCESSING (WORK EXPERIENCE) -->
-<!-- ============================================== -->
-<h2 style="color: #e6edf3;">🛠️ PROCESSING LAYER (Experience)</h2>
+## 💼 Work Experience
 
-<!-- EXPERIENCE ITEM 1 -->
-<div align="left" style="max-width: 600px;">
-  <table width="100%" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px;">
-    <tr>
-      <td width="5" bgcolor="#2196F3" style="border-radius: 6px 0 0 6px;"></td>
-      <td style="padding: 15px;">
-        <h3 style="margin: 0; color: #58a6ff;">Associate Data Engineer</h3>
-        <p style="margin: 5px 0 0 0; color: #8b949e; font-size: 12px;">Devsinc | Dec 2025 – Present</p>
-        <hr style="border: 0; border-top: 1px solid #21262d; margin: 10px 0;">
-        <p style="margin: 0; color: #e6edf3; font-size: 13px;">
-          <span style="color: #3fb950;">✅</span> Orchestrating Snowflake pipelines.<br>
-          <span style="color: #3fb950;">✅</span> Managing multi-source ingestion.<br>
-          <span style="color: #3fb950;">✅</span> Building dbt models on AWS MWAA.
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-<br>
-<img src="https://img.shields.io/badge/⬇-0d1117?style=flat-square&labelColor=0d1117" height="20" />
-<br>
+### **Associate Data Engineer**
 
-<!-- EXPERIENCE ITEM 2 -->
-<div align="left" style="max-width: 600px;">
-  <table width="100%" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px;">
-    <tr>
-      <td width="5" bgcolor="#FF5722" style="border-radius: 6px 0 0 6px;"></td>
-      <td style="padding: 15px;">
-        <h3 style="margin: 0; color: #ff7b72;">Associate Python Developer</h3>
-        <p style="margin: 5px 0 0 0; color: #8b949e; font-size: 12px;">Machine Learning 1 Pvt. Ltd | Mar 2025 – Nov 2025</p>
-        <hr style="border: 0; border-top: 1px solid #21262d; margin: 10px 0;">
-        <p style="margin: 0; color: #e6edf3; font-size: 13px;">
-          <span style="color: #3fb950;">✅</span> Managed validation microservices.<br>
-          <span style="color: #3fb950;">✅</span> Implemented ML output controls.<br>
-          <span style="color: #3fb950;">✅</span> Reduced bad responses in low-latency env.
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-<br>
-<img src="https://img.shields.io/badge/⬇-0d1117?style=flat-square&labelColor=0d1117" height="20" />
-<br>
+**Devsinc | Lahore** _(Dec 2025 – Present)_
 
-<!-- EXPERIENCE ITEM 3 -->
-<div align="left" style="max-width: 600px;">
-  <table width="100%" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px;">
-    <tr>
-      <td width="5" bgcolor="#4CAF50" style="border-radius: 6px 0 0 6px;"></td>
-      <td style="padding: 15px;">
-        <h3 style="margin: 0; color: #3fb950;">Associate Data Engineer</h3>
-        <p style="margin: 5px 0 0 0; color: #8b949e; font-size: 12px;">World Wide Admissions Hub | Aug 2024 – Feb 2025</p>
-        <hr style="border: 0; border-top: 1px solid #21262d; margin: 10px 0;">
-        <p style="margin: 0; color: #e6edf3; font-size: 13px;">
-          <span style="color: #3fb950;">✅</span> Automated web scraping (100% boost).<br>
-          <span style="color: #3fb950;">✅</span> Designed AI-based ETL processes.<br>
-          <span style="color: #3fb950;">✅</span> Cleaned data for web app integration.
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+-   Working on a large data project in **Snowflake**, managing data from multiple ingestion channels, and supporting ETL scheduling, monitoring, and reliability for production pipelines.
+-   Managing historical data pipelines from **BigQuery**, operating ETLs deployed on **AWS MWAA**, and building scalable **dbt** transformations to standardize models, improve lineage, and ensure high-quality, trusted data for analytics.
 
-<br>
-<!-- FLOW CONNECTOR -->
-<img src="https://img.shields.io/badge/⬇_TRANSFORMATION_ENGINE-0d1117?style=for-the-badge&labelColor=30363d" />
-<br><br>
+### **Associate Python Developer**
 
-<!-- ============================================== -->
-<!-- PHASE 3: TRANSFORMATION (TECH STACK) -->
-<!-- ============================================== -->
-<h2 style="color: #e6edf3;">⚙️ TRANSFORMATION ENGINE (Stack)</h2>
+**Machine Learning 1 Pvt. Ltd | Lahore** _(Mar 2025 – Nov 2025)_
 
-<div align="center" style="max-width: 600px; padding: 20px; border: 1px dashed #30363d; border-radius: 10px;">
-  <p style="color: #8b949e; font-size: 12px;">[INFO] LOADED MODULES:</p>
-  
-  <!-- CORE COMPUTATION -->
-  <img src="https://img.shields.io/badge/CORE-Airflow%20|%20Kafka%20|%20Spark%20|%20dbt-79c0ff?style=for-the-badge&logo=apachespark&logoColor=black" />
-  <br>
-  <!-- CLOUD LAYER -->
-  <img src="https://img.shields.io/badge/CLOUD-AWS%20|%20GCP%20|%20Snowflake%20|%20Databricks-d2a8ff?style=for-the-badge&logo=amazonwebservices&logoColor=black" />
-  <br>
-  <!-- OPS LAYER -->
-  <img src="https://img.shields.io/badge/OPS-Docker%20|%20Terraform%20|%20Linux%20|%20Bash-ff7b72?style=for-the-badge&logo=docker&logoColor=white" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=python,sql,aws,gcp,azure,snowflake,databricks,postgres,mysql,mongodb&perline=10" />
-</div>
+-   Managed a large Python-based validation microservice for a global KYC product, ingesting outputs from multiple **ML models** to perform data validation, standardization, and quality controls across a high volume of traffic.
+-   Implemented rule-driven checks, including regex fallbacks, anomaly detection, and checks preventing hallucinations and issues due to cropped artifacts, improving accuracy, reducing bad responses, and strengthening compliance in production.
 
-<br>
-<!-- FLOW CONNECTOR -->
-<img src="https://img.shields.io/badge/⬇_SERVING_PRODUCTION_DATA-0d1117?style=for-the-badge&labelColor=30363d" />
-<br><br>
+### **Associate Data Engineer**
 
-<!-- ============================================== -->
-<!-- PHASE 4: SERVING (PROJECTS) -->
-<!-- ============================================== -->
-<h2 style="color: #e6edf3;">🚀 SERVING LAYER (Projects)</h2>
+**World Wide Admissions Hub | Lahore** _(Aug 2024 – Feb 2025)_
 
-<!-- P1 -->
-<div align="left" style="max-width: 600px;">
-  <table width="100%" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px;">
-    <tr>
-      <td style="padding: 15px;">
-        <h3 style="margin: 0; color: #e6edf3;">☁️ YouTube Cloud Pipeline</h3>
-        <p style="margin: 5px 0 10px 0;">
-          <img src="https://img.shields.io/badge/AWS-Glue-orange?style=flat-square" /> 
-          <img src="https://img.shields.io/badge/Lambda-function-orange?style=flat-square" />
-        </p>
-        <p style="margin: 0; color: #8b949e; font-size: 13px;">
-          Serverless ingestion system for YouTube data analysis.
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-<br>
+-   Developed web scraping scripts, streamlining raw data collection from multiple sources, and increasing data extraction efficiency from 1 website per day to 100 websites per day, resulting in a **100% improvement**.
+-   Designed and implemented an **AI-based ETL pipeline** using Python, transforming, cleaning, and ingesting data, thereby enhancing processing efficiency and ensuring consistent, high-quality data for the web app and AI model.
 
-<!-- P2 -->
-<div align="left" style="max-width: 600px;">
-  <table width="100%" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px;">
-    <tr>
-      <td style="padding: 15px;">
-        <h3 style="margin: 0; color: #e6edf3;">🛠️ Infrastructure as Code ETL</h3>
-        <p style="margin: 5px 0 10px 0;">
-          <img src="https://img.shields.io/badge/Terraform-IaC-purple?style=flat-square" />
-          <img src="https://img.shields.io/badge/PySpark-ETL-red?style=flat-square" />
-        </p>
-        <p style="margin: 0; color: #8b949e; font-size: 13px;">
-          Provisioning Glue, RDS, S3 via code. Star-schema logic.
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-<br>
+---
 
-<!-- P3 -->
-<div align="left" style="max-width: 600px;">
-  <table width="100%" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px;">
-    <tr>
-      <td style="padding: 15px;">
-        <h3 style="margin: 0; color: #e6edf3;">⚡ NYC 311 Airflow Pipeline</h3>
-        <p style="margin: 5px 0 10px 0;">
-          <img src="https://img.shields.io/badge/Airflow-Orchestrate-blue?style=flat-square" /> 
-          <img src="https://img.shields.io/badge/EC2-Host-orange?style=flat-square" />
-        </p>
-        <p style="margin: 0; color: #8b949e; font-size: 13px;">
-          Automated open city data processing loop on EC2.
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+## ✨ Skills
 
-<br>
-<!-- FLOW CONNECTOR -->
-<img src="https://img.shields.io/badge/⬇_GOVERNANCE_CHECK-0d1117?style=for-the-badge&labelColor=30363d" />
-<br><br>
+### **Core Data Engineering**
 
-<!-- ============================================== -->
-<!-- PHASE 5: GOVERNANCE (CERTS & CONTACT) -->
-<!-- ============================================== -->
-<h2 style="color: #e6edf3;">📜 GOVERNANCE (Certifications)</h2>
+-   **Programming**: Python, SQL
+-   **Frameworks & Tools**: Apache Airflow, Apache Spark, dbt, Apache Kafka, PySpark, Pandas
+-   **Cloud Components**: AWS (Glue, Lambda, Redshift, S3, Athena, MWAA), BigQuery, Snowflake, Databricks
+-   **Infrastructure**: Docker, Terraform
 
-<div align="center" style="max-width: 600px;">
-  <details>
-    <summary style="cursor: pointer; color: #58a6ff;"><b>📂 CLICK TO INSPECT CERTIFICATES</b></summary>
-    <br>
-    <a href="https://www.datacamp.com/certificate/DE0015440477781">
-      <img src="https://img.shields.io/badge/DataCamp-Certified_DE-green?style=for-the-badge&logo=datacamp" />
-    </a>
-    <br>
-    <a href="https://learn.snowflake.com/en/certifications/snowpro-advanced-dataengineer/">
-      <img src="https://img.shields.io/badge/Snowflake-Data_Engineering-29B5E8?style=for-the-badge&logo=snowflake" />
-    </a>
-    <br>
-    <a href="https://www.databricks.com/learn/certification/data-engineer-associate">
-      <img src="https://img.shields.io/badge/Databricks-Associate_DE-FF3621?style=for-the-badge&logo=databricks" />
-    </a>
-    <br>
-    <a href="https://www.getdbt.com/dbt-learn/">
-      <img src="https://img.shields.io/badge/dbt-Fundamentals-FF694B?style=for-the-badge&logo=dbt" />
-    </a>
-  </details>
-</div>
+### **Databases**
 
-<br><br>
-<img src="https://img.shields.io/badge/✔_PIPELINE_SUCCESS-success?style=for-the-badge" />
+-   **Relational**: PostgreSQL, MySQL, MSSQL
+-   **NoSQL**: MongoDB
 
-<br><br>
+### **Soft Skills**
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/asadali27232/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:asadali27232@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-d14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=asadali27232&style=flat-square&color=blue" alt="Views" />
-</div>
+-   Problem-Solving, Team Collaboration, Continuous Learning
 
-</div>
+---
+
+## 💻 Projects
+
+### [Simple Cloud-Based Data Pipeline with Apache Airflow on AWS EC2](https://github.com/asadali27232/) _(Dec 2025)_
+
+This project implements an end-to-end data engineering pipeline using **Apache Airflow** deployed on an **AWS EC2** Ubuntu instance. The pipeline orchestrates the extraction, transformation, and loading (ETL) of NYC 311 Service Request data through a series of automated tasks. Raw JSON data is fetched from the NYC Open Data API, processed using **Pandas** for data cleaning and standardization, and ultimately stored in **Amazon S3** in Parquet format for optimized query performance.
+
+### [Terraform-Powered AWS Glue ETL: Infrastructure as Code](https://github.com/asadali27232/) _(Dec 2025)_
+
+ETL pipeline using **Terraform** to automate AWS infrastructure provisioning for **Glue**, **RDS**, **S3**, and **Athena**. The system extracts MySQL retail data, transforms it into a star schema via **PySpark** jobs, and loads Parquet-optimized files into S3 for serverless analytics, demonstrating Infrastructure as Code, dimensional modeling, and cost-efficient cloud data engineering.
+
+### [YouTube's Data Engineering: ETL & Cloud Pipeline](https://github.com/asadali27232/) _(Dec 2025)_
+
+This project demonstrates a data engineering pipeline implementation, including ingestion, ETL, and cloud-based storage using **AWS**. It processes structured and semi-structured data to create a clean dataset and builds an interactive **Power BI** dashboard for visualization. The system is scalable, automated, and cloud-based, showcasing real-world data engineering practices.
+
+### [CardioGraph Pro - FYP](https://github.com/asadali27232/FYP) _(Feb 2024 – Jan 2025)_
+
+Led the handling and analysis of 20,000 ECG signal files (time-series data) using Python, performing EDA with Pandas and Matplotlib, basic data cleaning, and designing a data pipeline to integrate with a machine learning model and web interface, ensuring efficient and accurate data processing.
+
+---
+
+## 🏆 Certifications
+
+-   [**Certified Data Engineer** - DataCamp](https://www.datacamp.com/certificate/DE0015440477781)
+-   [**Snowflake Data Engineering** - Snowflake](https://learn.snowflake.com/en/certifications/snowpro-advanced-dataengineer/)
+-   [**Databricks for Data Engineering** - Databricks](https://www.databricks.com/learn/certification/data-engineer-associate)
+-   [**dbt Fundamentals** - dbt Labs](https://www.getdbt.com/dbt-learn/)
+-   [**Introduction to Data Engineering** - DeepLearning.AI](https://www.coursera.org/learn/introduction-to-data-engineering)
+-   [**Programming in Python** - Meta](https://www.coursera.org/learn/programming-in-python-meta)
+-   [**Querying Databases with SQL** - IBM](https://www.coursera.org/learn/sql-practical-introduction-for-querying-databases)
+
+---
+
+## 🎓 Education
+
+**BS Computer Science** | COMSATS University Islamabad, Lahore Campus _(Feb 2021 – Jan 2025)_
+Developed a strong foundation in programming and computer science principles, with specialized knowledge in data engineering, data warehousing, and database technologies.
+
+---
+
+## 📫 How to Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadali27232/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asadali27232@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923074315952)
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-24292e?style=for-the-badge&logo=react&logoColor=white&color=purplr)](https://asadali27232.github.io/asadali27232/)
