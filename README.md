@@ -1,10 +1,8 @@
 <div align="center">
-    <!-- PIPELINE PORTAL FRAME (Screenshot linking to Interactive Site) -->
-    <a href="pipeline.html">
-        <img src="https://img.shields.io/badge/🔮_INTERACTIVE_DATA_LINEAGE-CLICK_TO_EXPLORE-0f172a?style=for-the-badge&color=0f172a&labelColor=3b82f6" width="100%" />
-        <br>
-        <img src="file:///Users/dev/.gemini/antigravity/brain/3f8e1ad0-c1d7-4469-abea-8a767c9e310d/pipeline_graph_capture_1767208425244.png" width="100%" style="border: 2px solid #30363d; border-radius: 10px;" />
-    </a>
+    <!-- PIPELINE PORTAL FRAME -->
+    <img src="https://img.shields.io/badge/🔮_DATA_LINEAGE_VISUALIZATION-PREVIEW-0f172a?style=for-the-badge&color=0f172a&labelColor=3b82f6" width="100%" />
+    <br>
+    <img src="pipeline_view.png" width="100%" style="border: 2px solid #30363d; border-radius: 10px;" />
 </div>
 
 <br>
