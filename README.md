@@ -1,276 +1,243 @@
+<div align="center" style="font-family: monospace;">
+
+<!-- ============================================== -->
+<!-- PHASE 1: DATA SOURCE (HEADER) -->
+<!-- ============================================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=ASAD%20ALI%20PIPELINE&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35" width="100%" />
+
+<br>
+<a href="https://www.datacamp.com/certificate/DE0015440477781">
+  <img src="datacamp_banner.png" width="600" style="border-radius: 12px; border: 1px solid #30363d; box-shadow: 0 0 20px rgba(88, 166, 255, 0.2);" />
+</a>
+
+<br><br>
+
+<!-- TERMINAL BIO -->
+<div align="left" style="max-width: 600px; background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
+  <span style="color: #8b949e; font-size: 12px;">root@asad-etl:~/config</span>
+  <br>
+  <span style="color: #ff7b72;">$</span> <span style="color: #e6edf3;">cat source_config.json</span>
+  <br><br>
+  <span style="color: #e6edf3; font-size: 13px;">
+  {<br>
+  &nbsp;&nbsp;"role": "<span style="color: #79c0ff;">Associate Data Engineer</span>",<br>
+  &nbsp;&nbsp;"location": "Lahore, PK",<br>
+  &nbsp;&nbsp;"mission": "Transforming Raw Chaos -> Analytical Gold",<br>
+  &nbsp;&nbsp;"status": "<span style="color: #3fb950;">ACTIVE</span>"<br>
+  }
+  </span>
+</div>
+
+<br>
+<!-- FLOW CONNECTOR -->
+<img src="https://img.shields.io/badge/⬇_DATA_INGESTION_STARTED-0d1117?style=for-the-badge&labelColor=30363d" />
+<br><br>
+
+<!-- ============================================== -->
+<!-- PHASE 2: PROCESSING (WORK EXPERIENCE) -->
+<!-- ============================================== -->
+<h2 style="color: #e6edf3;">🛠️ PROCESSING LAYER (Experience)</h2>
+
+<!-- EXPERIENCE ITEM 1 -->
+<div align="left" style="max-width: 600px;">
+  <table width="100%" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px;">
+    <tr>
+      <td width="5" bgcolor="#2196F3" style="border-radius: 6px 0 0 6px;"></td>
+      <td style="padding: 15px;">
+        <h3 style="margin: 0; color: #58a6ff;">Associate Data Engineer</h3>
+        <p style="margin: 5px 0 0 0; color: #8b949e; font-size: 12px;">Devsinc | Dec 2025 – Present</p>
+        <hr style="border: 0; border-top: 1px solid #21262d; margin: 10px 0;">
+        <p style="margin: 0; color: #e6edf3; font-size: 13px;">
+          <span style="color: #3fb950;">✅</span> Orchestrating Snowflake pipelines.<br>
+          <span style="color: #3fb950;">✅</span> Managing multi-source ingestion.<br>
+          <span style="color: #3fb950;">✅</span> Building dbt models on AWS MWAA.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+<br>
+<img src="https://img.shields.io/badge/⬇-0d1117?style=flat-square&labelColor=0d1117" height="20" />
+<br>
+
+<!-- EXPERIENCE ITEM 2 -->
+<div align="left" style="max-width: 600px;">
+  <table width="100%" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px;">
+    <tr>
+      <td width="5" bgcolor="#FF5722" style="border-radius: 6px 0 0 6px;"></td>
+      <td style="padding: 15px;">
+        <h3 style="margin: 0; color: #ff7b72;">Associate Python Developer</h3>
+        <p style="margin: 5px 0 0 0; color: #8b949e; font-size: 12px;">Machine Learning 1 Pvt. Ltd | Mar 2025 – Nov 2025</p>
+        <hr style="border: 0; border-top: 1px solid #21262d; margin: 10px 0;">
+        <p style="margin: 0; color: #e6edf3; font-size: 13px;">
+          <span style="color: #3fb950;">✅</span> Managed validation microservices.<br>
+          <span style="color: #3fb950;">✅</span> Implemented ML output controls.<br>
+          <span style="color: #3fb950;">✅</span> Reduced bad responses in low-latency env.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+<br>
+<img src="https://img.shields.io/badge/⬇-0d1117?style=flat-square&labelColor=0d1117" height="20" />
+<br>
+
+<!-- EXPERIENCE ITEM 3 -->
+<div align="left" style="max-width: 600px;">
+  <table width="100%" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px;">
+    <tr>
+      <td width="5" bgcolor="#4CAF50" style="border-radius: 6px 0 0 6px;"></td>
+      <td style="padding: 15px;">
+        <h3 style="margin: 0; color: #3fb950;">Associate Data Engineer</h3>
+        <p style="margin: 5px 0 0 0; color: #8b949e; font-size: 12px;">World Wide Admissions Hub | Aug 2024 – Feb 2025</p>
+        <hr style="border: 0; border-top: 1px solid #21262d; margin: 10px 0;">
+        <p style="margin: 0; color: #e6edf3; font-size: 13px;">
+          <span style="color: #3fb950;">✅</span> Automated web scraping (100% boost).<br>
+          <span style="color: #3fb950;">✅</span> Designed AI-based ETL processes.<br>
+          <span style="color: #3fb950;">✅</span> Cleaned data for web app integration.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+<!-- FLOW CONNECTOR -->
+<img src="https://img.shields.io/badge/⬇_TRANSFORMATION_ENGINE-0d1117?style=for-the-badge&labelColor=30363d" />
+<br><br>
+
+<!-- ============================================== -->
+<!-- PHASE 3: TRANSFORMATION (TECH STACK) -->
+<!-- ============================================== -->
+<h2 style="color: #e6edf3;">⚙️ TRANSFORMATION ENGINE (Stack)</h2>
+
+<div align="center" style="max-width: 600px; padding: 20px; border: 1px dashed #30363d; border-radius: 10px;">
+  <p style="color: #8b949e; font-size: 12px;">[INFO] LOADED MODULES:</p>
+  
+  <!-- CORE COMPUTATION -->
+  <img src="https://img.shields.io/badge/CORE-Airflow%20|%20Kafka%20|%20Spark%20|%20dbt-79c0ff?style=for-the-badge&logo=apachespark&logoColor=black" />
+  <br>
+  <!-- CLOUD LAYER -->
+  <img src="https://img.shields.io/badge/CLOUD-AWS%20|%20GCP%20|%20Snowflake%20|%20Databricks-d2a8ff?style=for-the-badge&logo=amazonwebservices&logoColor=black" />
+  <br>
+  <!-- OPS LAYER -->
+  <img src="https://img.shields.io/badge/OPS-Docker%20|%20Terraform%20|%20Linux%20|%20Bash-ff7b72?style=for-the-badge&logo=docker&logoColor=white" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=python,sql,aws,gcp,azure,snowflake,databricks,postgres,mysql,mongodb&perline=10" />
+</div>
+
+<br>
+<!-- FLOW CONNECTOR -->
+<img src="https://img.shields.io/badge/⬇_SERVING_PRODUCTION_DATA-0d1117?style=for-the-badge&labelColor=30363d" />
+<br><br>
+
+<!-- ============================================== -->
+<!-- PHASE 4: SERVING (PROJECTS) -->
+<!-- ============================================== -->
+<h2 style="color: #e6edf3;">🚀 SERVING LAYER (Projects)</h2>
+
+<!-- P1 -->
+<div align="left" style="max-width: 600px;">
+  <table width="100%" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px;">
+    <tr>
+      <td style="padding: 15px;">
+        <h3 style="margin: 0; color: #e6edf3;">☁️ YouTube Cloud Pipeline</h3>
+        <p style="margin: 5px 0 10px 0;">
+          <img src="https://img.shields.io/badge/AWS-Glue-orange?style=flat-square" /> 
+          <img src="https://img.shields.io/badge/Lambda-function-orange?style=flat-square" />
+        </p>
+        <p style="margin: 0; color: #8b949e; font-size: 13px;">
+          Serverless ingestion system for YouTube data analysis.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+<br>
+
+<!-- P2 -->
+<div align="left" style="max-width: 600px;">
+  <table width="100%" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px;">
+    <tr>
+      <td style="padding: 15px;">
+        <h3 style="margin: 0; color: #e6edf3;">🛠️ Infrastructure as Code ETL</h3>
+        <p style="margin: 5px 0 10px 0;">
+          <img src="https://img.shields.io/badge/Terraform-IaC-purple?style=flat-square" />
+          <img src="https://img.shields.io/badge/PySpark-ETL-red?style=flat-square" />
+        </p>
+        <p style="margin: 0; color: #8b949e; font-size: 13px;">
+          Provisioning Glue, RDS, S3 via code. Star-schema logic.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+<br>
+
+<!-- P3 -->
+<div align="left" style="max-width: 600px;">
+  <table width="100%" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px;">
+    <tr>
+      <td style="padding: 15px;">
+        <h3 style="margin: 0; color: #e6edf3;">⚡ NYC 311 Airflow Pipeline</h3>
+        <p style="margin: 5px 0 10px 0;">
+          <img src="https://img.shields.io/badge/Airflow-Orchestrate-blue?style=flat-square" /> 
+          <img src="https://img.shields.io/badge/EC2-Host-orange?style=flat-square" />
+        </p>
+        <p style="margin: 0; color: #8b949e; font-size: 13px;">
+          Automated open city data processing loop on EC2.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+<!-- FLOW CONNECTOR -->
+<img src="https://img.shields.io/badge/⬇_GOVERNANCE_CHECK-0d1117?style=for-the-badge&labelColor=30363d" />
+<br><br>
+
+<!-- ============================================== -->
+<!-- PHASE 5: GOVERNANCE (CERTS & CONTACT) -->
+<!-- ============================================== -->
+<h2 style="color: #e6edf3;">📜 GOVERNANCE (Certifications)</h2>
+
+<div align="center" style="max-width: 600px;">
+  <details>
+    <summary style="cursor: pointer; color: #58a6ff;"><b>📂 CLICK TO INSPECT CERTIFICATES</b></summary>
+    <br>
+    <a href="https://www.datacamp.com/certificate/DE0015440477781">
+      <img src="https://img.shields.io/badge/DataCamp-Certified_DE-green?style=for-the-badge&logo=datacamp" />
+    </a>
+    <br>
+    <a href="https://learn.snowflake.com/en/certifications/snowpro-advanced-dataengineer/">
+      <img src="https://img.shields.io/badge/Snowflake-Data_Engineering-29B5E8?style=for-the-badge&logo=snowflake" />
+    </a>
+    <br>
+    <a href="https://www.databricks.com/learn/certification/data-engineer-associate">
+      <img src="https://img.shields.io/badge/Databricks-Associate_DE-FF3621?style=for-the-badge&logo=databricks" />
+    </a>
+    <br>
+    <a href="https://www.getdbt.com/dbt-learn/">
+      <img src="https://img.shields.io/badge/dbt-Fundamentals-FF694B?style=for-the-badge&logo=dbt" />
+    </a>
+  </details>
+</div>
+
+<br><br>
+<img src="https://img.shields.io/badge/✔_PIPELINE_SUCCESS-success?style=for-the-badge" />
+
+<br><br>
+
 <div align="center">
-<table width="900" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td colspan="3" align="center" bgcolor="#0d1117" style="border-radius: 20px 20px 0 0; border: 1px solid #30363d;">
-      <table width="100%" border="0" cellspacing="0" cellpadding="10">
-        <tr>
-          <td align="left" width="50">
-            <img src="https://img.shields.io/badge/MENU-☰-21262d?style=for-the-badge&labelColor=0d1117" />
-          </td>
-          <td align="center">
-             <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=60&section=header&text=ASAD%20ALI%20DASHBOARD&fontSize=30&fontColor=e6edf3&animation=fadeIn" width="400" />
-          </td>
-          <td align="right" width="50">
-            <img src="https://img.shields.io/badge/STATUS-ONLINE-success?style=for-the-badge" />
-          </td>
-        </tr>
-      </table>
-      <br>
-       <a href="https://www.datacamp.com/certificate/DE0015440477781">
-        <img src="datacamp_banner.png" width="95%" style="border-radius: 10px; border: 1px solid #30363d;" />
-      </a>
-      <br><br>
-      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Initializing+Data+Engineering+Sequence...;Loading+Snowflake+Modules...;Connecting+to+AWS+Cloud...;Asad+Ali+Profile+Loaded." />
-      <br><br>
-    </td>
-  </tr>
-  <tr>
-    <td width="220" valign="top" bgcolor="#0d1117" style="border-left: 1px solid #30363d; border-right: 1px solid #30363d;">
-      <table width="100%" border="0" cellspacing="0" cellpadding="10">
-        <tr>
-          <td align="center">
-            <br>
-            <img src="https://github.com/asadali27232.png" width="150" style="border-radius: 50%; border: 3px solid #58a6ff;" />
-            <br><br>
-            <h3 style="color: #e6edf3;">Asad Ali</h3>
-            <p style="color: #8b949e; font-size: 12px;">Associate Data Engineer<br>Lahore, PK</p>
-            <hr style="border: 0; border-top: 1px solid #30363d;">
-          </td>
-        </tr>
-        <tr>
-          <td align="center">
-            <a href="https://www.linkedin.com/in/asadali27232/">
-              <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin&logoColor=white" width="180" />
-            </a>
-            <br><br>
-            <a href="mailto:asadali27232@gmail.com">
-              <img src="https://img.shields.io/badge/Email-Send_Mail-d14836?style=flat-square&logo=gmail&logoColor=white" width="180" />
-            </a>
-            <br><br>
-             <a href="https://wa.me/923074315952">
-              <img src="https://img.shields.io/badge/WhatsApp-Chat_Now-25d366?style=flat-square&logo=whatsapp&logoColor=white" width="180" />
-            </a>
-            <br><br>
-             <a href="https://asadali27232.github.io/asadali27232/">
-              <img src="https://img.shields.io/badge/Portfolio-Visit_Site-24292e?style=flat-square&logo=react&logoColor=white" width="180" />
-            </a>
-          </td>
-        </tr>
-         <tr>
-          <td align="center">
-            <br>
-            <h4 style="color: #e6edf3;">Tech Stack ID</h4>
-            <img src="https://img.shields.io/badge/Python-Expert-yellow?style=plastic" /><br>
-            <img src="https://img.shields.io/badge/SQL-Advanced-blue?style=plastic" /><br>
-            <img src="https://img.shields.io/badge/Snowflake-Certified-29B5E8?style=plastic" /><br>
-            <img src="https://img.shields.io/badge/AWS-Architect-FF9900?style=plastic" />
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td width="460" valign="top" bgcolor="#010409">
-      <table width="100%" border="0" cellspacing="0" cellpadding="15">
-        <tr>
-          <td>
-            <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
-              <div style="color: #8b949e; font-family: monospace; font-size: 12px; margin-bottom: 10px;">
-                <span style="color: #ff7b72;">root@asad-server</span>:<span style="color: #79c0ff;">~/bio</span>$ cat about_me.txt
-              </div>
-              <div style="color: #e6edf3; font-family: monospace; font-size: 13px; line-height: 1.5;">
-                > <span style="color: #79c0ff;">Associate Data Engineer</span> specialized in building robust ETL pipelines.<br>
-                > Hands-on experience with <span style="color: #d2a8ff;">Snowflake, BigQuery, AWS</span>.<br>
-                > Transforming raw chaos into analytical gold.
-              </div>
-            </div>
-          </td>
-        </tr>
-        <tr>
-          <td align="left">
-            <h2><img src="https://emojis.slackmojis.com/emojis/images/1643514936/7671/meow_code.gif?1643514936" width="30"/> Work Experience Log</h2>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table width="100%" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px;">
-              <tr>
-                <td width="10" bgcolor="#2196F3" style="border-radius: 6px 0 0 6px;"></td>
-                <td style="padding: 10px;">
-                  <h4 style="margin: 0; color: #e6edf3;">Associate Data Engineer (Current)</h4>
-                  <p style="margin: 0; color: #8b949e; font-size: 12px;">Devsinc | Dec 2025 - Present</p>
-                  <br>
-                  <p style="margin: 0; color: #e6edf3; font-size: 13px;">
-                    • Orchestrating Snowflake pipelines.<br>
-                    • Managing multi-source ingestion.<br>
-                    • Building dbt models on AWS MWAA.
-                  </p>
-                </td>
-              </tr>
-            </table>
-            <br>
-            <table width="100%" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px;">
-              <tr>
-                <td width="10" bgcolor="#FF5722" style="border-radius: 6px 0 0 6px;"></td>
-                <td style="padding: 10px;">
-                  <h4 style="margin: 0; color: #e6edf3;">Associate Python Developer</h4>
-                  <p style="margin: 0; color: #8b949e; font-size: 12px;">Machine Learning 1 Pvt. Ltd | Mar - Nov 2025</p>
-                  <br>
-                  <p style="margin: 0; color: #e6edf3; font-size: 13px;">
-                    • Managed validation microservices.<br>
-                    • Implemented ML output controls.<br>
-                    • Reducing bad responses in low-latency env.
-                  </p>
-                </td>
-              </tr>
-            </table>
-            <br>
-            <table width="100%" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px;">
-              <tr>
-                <td width="10" bgcolor="#4CAF50" style="border-radius: 6px 0 0 6px;"></td>
-                <td style="padding: 10px;">
-                  <h4 style="margin: 0; color: #e6edf3;">Associate Data Engineer</h4>
-                  <p style="margin: 0; color: #8b949e; font-size: 12px;">World Wide Admissions Hub | Aug 2024 - Feb 2025</p>
-                  <br>
-                  <p style="margin: 0; color: #e6edf3; font-size: 13px;">
-                    • Automated web scraping (100% boost).<br>
-                    • Designed AI-based ETL processes.<br>
-                    • Cleaned data for web app integration.
-                  </p>
-                </td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-         <tr>
-          <td align="left">
-            <h2>🚀 Deployed Projects</h2>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table width="100%" border="0" cellspacing="5">
-              <tr>
-                <td width="50%" valign="top" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 6px; padding: 10px;">
-                  <h4 style="color: #58a6ff;">YouTube Cloud Pipeline</h4>
-                  <img src="https://img.shields.io/badge/AWS-Glue-orange?style=flat-square" height="20" /> 
-                  <img src="https://img.shields.io/badge/Lambda-function-orange?style=flat-square" height="20" />
-                  <br><br>
-                  <p style="font-size: 12px; color: #e6edf3;">Serverless ingestion system for YouTube data analysis.</p>
-                  <a href="https://github.com/asadali27232/">
-                    <img src="https://img.shields.io/badge/VIEW-CODE-238636?style=for-the-badge" />
-                  </a>
-                </td>
-                <td width="50%" valign="top" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 6px; padding: 10px;">
-                  <h4 style="color: #bc8cff;">Terraform AWS ETL</h4>
-                  <img src="https://img.shields.io/badge/Terraform-IaC-purple?style=flat-square" height="20" />
-                  <img src="https://img.shields.io/badge/PySpark-ETL-red?style=flat-square" height="20" />
-                  <br><br>
-                  <p style="font-size: 12px; color: #e6edf3;">Provisioning Glue, RDS, S3 via code. Star-schema logic.</p>
-                  <a href="https://github.com/asadali27232/">
-                    <img src="https://img.shields.io/badge/VIEW-CODE-238636?style=for-the-badge" />
-                  </a>
-                </td>
-              </tr>
-               <tr>
-                <td width="50%" valign="top" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 6px; padding: 10px;">
-                  <h4 style="color: #3fb950;">NYC 311 Airflow</h4>
-                  <img src="https://img.shields.io/badge/Airflow-Orchestrate-blue?style=flat-square" height="20" /> 
-                  <img src="https://img.shields.io/badge/EC2-Host-orange?style=flat-square" height="20" />
-                  <br><br>
-                  <p style="font-size: 12px; color: #e6edf3;">Automated open city data processing loop.</p>
-                  <a href="https://github.com/asadali27232/">
-                    <img src="https://img.shields.io/badge/VIEW-CODE-238636?style=for-the-badge" />
-                  </a>
-                </td>
-                <td width="50%" valign="top" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 6px; padding: 10px;">
-                  <h4 style="color: #f85149;">CardioGraph Pro</h4>
-                  <img src="https://img.shields.io/badge/ML-Prediction-green?style=flat-square" height="20" />
-                  <img src="https://img.shields.io/badge/Python-Native-blue?style=flat-square" height="20" />
-                  <br><br>
-                  <p style="font-size: 12px; color: #e6edf3;">ECG Analysis for Heart Disease Detection (FYP).</p>
-                  <a href="https://github.com/asadali27232/FYP">
-                    <img src="https://img.shields.io/badge/VIEW-CODE-238636?style=for-the-badge" />
-                  </a>
-                </td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td width="220" valign="top" bgcolor="#0d1117" style="border-left: 1px solid #30363d; border-right: 1px solid #30363d;">
-      <table width="100%" border="0" cellspacing="0" cellpadding="10">
-        <tr>
-          <td align="center">
-            <br>
-            <h4 style="color: #e6edf3;">SKILL ARSENAL</h4>
-          </td>
-        </tr>
-        <tr>
-          <td align="center">
-             <img src="https://img.shields.io/badge/Data_Engineering-Airflow%20|%20Kafka%20|%20Spark-79c0ff?style=for-the-badge&logo=apachespark&logoColor=black" width="200"/>
-             <br><br>
-             <img src="https://img.shields.io/badge/Cloud_Stack-AWS%20|%20GCP%20|%20Azure-d2a8ff?style=for-the-badge&logo=amazonwebservices&logoColor=black" width="200"/>
-              <br><br>
-             <img src="https://img.shields.io/badge/Warehousing-Snowflake%20|%20Databricks-ff7b72?style=for-the-badge&logo=snowflake&logoColor=white" width="200"/>
-              <br><br>
-             <img src="https://img.shields.io/badge/Languages-Python%20|%20SQL%20|%20Bash-f2cc60?style=for-the-badge&logo=python&logoColor=black" width="200"/>
-          </td>
-        </tr>
-        <tr>
-          <td align="center">
-            <hr style="border: 0; border-top: 1px solid #30363d;">
-            <h4 style="color: #e6edf3;">CERTIFICATES</h4>
-          </td>
-        </tr>
-        <tr>
-          <td align="left">
-            <details>
-              <summary style="cursor: pointer; color: #58a6ff;"><b>Open Vault</b></summary>
-              <br>
-              <a href="https://www.datacamp.com/certificate/DE0015440477781">
-                <img src="https://img.shields.io/badge/DataCamp-Certified_DE-green?style=flat&logo=datacamp" />
-              </a>
-              <br><br>
-               <a href="https://learn.snowflake.com/en/certifications/snowpro-advanced-dataengineer/">
-                <img src="https://img.shields.io/badge/Snowflake-Data_Engineering-29B5E8?style=flat&logo=snowflake" />
-              </a>
-               <br><br>
-               <a href="https://www.databricks.com/learn/certification/data-engineer-associate">
-                <img src="https://img.shields.io/badge/Databricks-Associate_DE-FF3621?style=flat&logo=databricks" />
-              </a>
-               <br><br>
-               <a href="https://www.getdbt.com/dbt-learn/">
-                <img src="https://img.shields.io/badge/dbt-Fundamentals-FF694B?style=flat&logo=dbt" />
-              </a>
-               <br><br>
-               <a href="https://www.coursera.org/learn/introduction-to-data-engineering">
-                <img src="https://img.shields.io/badge/DeepLearning.AI-Intro_to_DE-yellow?style=flat&logo=coursera" />
-              </a>
-            </details>
-          </td>
-        </tr>
-        <tr>
-          <td align="center">
-            <hr style="border: 0; border-top: 1px solid #30363d;">
-            <h4 style="color: #e6edf3;">GITHUB ACTIVITY</h4>
-            <a href="https://git.io/streak-stats">
-              <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadali27232&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" width="200" />
-            </a>
-             <br><br>
-              <img src="https://komarev.com/ghpvc/?username=asadali27232&style=flat-square&color=blue" alt="Views" />
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center" bgcolor="#0d1117" style="border-radius: 0 0 20px 20px; border: 1px solid #30363d; padding: 20px;">
-       <img src="https://skillicons.dev/icons?i=python,sql,aws,gcp,azure,snowflake,databricks,postgres,mysql,mongodb,docker,kubernetes,terraform,linux,bash,git,github,vscode,vim,pycharm&perline=20" width="100%" />
-       <br><br>
-       <p style="color: #8b949e; font-size: 11px;">
-        © 2025 Asad Ali. Engineered with HTML5 & Love.
-       </p>
-    </td>
-  </tr>
-</table>
+  <a href="https://www.linkedin.com/in/asadali27232/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:asadali27232@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-d14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=asadali27232&style=flat-square&color=blue" alt="Views" />
+</div>
+
 </div>
