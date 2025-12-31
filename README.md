@@ -2,95 +2,113 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=asadali27232&style=flat-square&color=blue)](https://github.com/asadali27232/)
 
-## 🚀 About Me
-I am passionate about **Data Scientist | Data Engineer | Data Analyst | Software Engineer (Django, React, Node.js)** with expertise in Python, SQL, and cloud-based data science technologies. I have hands-on experience building ETL pipelines, working with data visualization tools, and developing web and mobile applications. 
+---
 
-I have recently completed my **Bachelor's degree in Computer Science** at [COMSATS University Islamabad, Lahore Campus](https://lahore.comsats.edu.pk/default.aspx), graduated in **January 2025**. My focus lies in creating data-driven solutions and contributing to impactful projects.
+## 🎓 Latest Certification
+
+![DataCamp Certification Banner](https://www.datacamp.com/badges/YOUR_CERTIFICATE_IMAGE_URL)  
+Recently completed **DataCamp courses** on **Data Engineering, Python, SQL, and Cloud Data Pipelines** to strengthen hands-on skills in modern data engineering practices.
+
+---
+
+## 🚀 About Me
+I am an **Associate Data Engineer** with expertise in building and optimizing **ETL pipelines**, managing **multi-source data ingestion**, and working with **cloud-based data warehouses** like Snowflake, BigQuery, and AWS Redshift.  
+
+Skilled in **Python, SQL, dbt**, and modern data engineering tools such as **Apache Airflow, Spark, and AWS Glue**, I specialize in **data modeling, pipeline orchestration**, and ensuring **data quality, reliability, and scalability**.  
+
+I transform raw data into **analytics-ready datasets** and develop **data-driven solutions** for large-scale projects, automating workflows and standardizing data models to support business insights.
 
 ---
 
 ## 🔭 Current Focus
-- Strategizing the path to securing a role in **Data Science**, **Data Engineering**, and **Data Visualization**, focusing on skill development, hands-on projects, and building a professional network.
-
-- Personal projects applying skills in **Data Science**, **Data Engineering & Visualization**, and **ETL pipeline development**, with ongoing learning through **Coursera** courses to enhance proficiency in these areas.
-
-
----
-
-## 🌱 What I'm Learning
-- **Data Science**: Python, SQL, Machine Learning, Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch
-- **Data Engineering**: Apache Kafka, Apache Airflow, Kafka Streams, Stream Processing
-- **Cloud Data Warehousing**: AWS, Google Cloud, Snowflake, BigQuery, Data Pipelines
-- **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn, Plotly, Dash
+- Designing and implementing **scalable ETL pipelines** for production-level data systems.  
+- Building **cloud-based data solutions** with **Snowflake, AWS, BigQuery**, and **dbt**.  
+- Continuous learning in **advanced Data Engineering, Data Warehousing, and Cloud Analytics** through DataCamp and other platforms.
 
 ---
 
-## ✨ Skills
+## 🌱 Skills
 
 ### **Data Engineering**
-- **Programming**: Python, SQL, ETL Pipeline Design
-- **Frameworks**: Apache Airflow, Pandas, NumPy
-- **Tools**: Docker, Microsoft SSIS/SSAS, AWS
-- **Databases**: PostgreSQL, MySQL, MongoDB, MSSQL
+- **Programming:** Python, SQL, PySpark  
+- **Frameworks & Tools:** Apache Airflow, Apache Kafka, Spark, AWS Glue, AWS Lambda, Docker, dbt, Terraform  
+- **Cloud & Data Warehouses:** AWS (S3, Redshift), Snowflake, BigQuery, Databricks  
+- **Databases:** PostgreSQL, MySQL, MongoDB, MSSQL  
 
 ### **Data Science & Visualization**
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- **Visualization Tools**: Power BI, Tableau
-- **Machine Learning**: Supervised/Unsupervised Learning
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Visualization Tools:** Power BI, Tableau  
+- **Machine Learning:** Supervised/Unsupervised Learning  
 
-### **Software Engineering**
-- **Frontend**: React.js, Next.js, HTML, CSS, JavaScript
-- **Backend**: Django, Node.js, Express.js
-- **APIs**: RESTful API Design and Integration
-- **Databases**: PostgreSQL, MongoDB, MySQL
+### **Software Development**
+- **Frontend:** React.js, Next.js, HTML, CSS, JavaScript  
+- **Backend:** Django, Node.js, Express.js  
+- **APIs:** RESTful API Design and Integration  
 
 ### **Soft Skills**
-- Analytical Thinking, Problem-Solving, Team Collaboration, Leadership
+Problem-Solving, Team Collaboration, Leadership, Continuous Learning
 
 ---
 
 ## 💻 Projects
 
-### [Final Year Project - CardioGraph Pro](https://github.com/asadali27232/FYP)
-A project designed for early detection and management of heart diseases using machine learning and ECG signal analysis.
+### [CardioGraph Pro](https://github.com/asadali27232/FYP)
+Handled and analyzed 20,000 ECG signal files, performing EDA, data cleaning, and building a pipeline integrating machine learning for heart disease detection.
 
-### [AFD Detector (DIP)](https://github.com/asadali27232/AFD-Detector_DIP-Project)
-An advanced project using **Digital Image Processing**, including a CNN model, a website, and a React Native mobile application.
+### [Simple Cloud-Based Data Pipeline with Apache Airflow on AWS EC2](https://github.com/asadali27232/)
+Automated ETL of NYC 311 Service Request data, using Airflow, Pandas, and S3 with Parquet storage for optimized querying.
 
-### [AI Desktop Assistant](https://github.com/asadali27232/AI-Desktop-Assistant)
-An Open AI-powered assistant capable of creating documents and code files through voice commands.
+### [Terraform-Powered AWS Glue ETL](https://github.com/asadali27232/)
+Implemented Infrastructure as Code for ETL pipelines using Terraform, AWS Glue, PySpark, RDS, S3, and Athena.
 
-### [Power BI Case Studies](https://github.com/asadali27232/PowerBI-CaseStudies-Projects)
-Business dashboards and case studies showcasing data cleaning, modeling, and visualization skills.
-
-### [Library Management System (Console App)](https://github.com/asadali27232/LibrarayMnagagementProject)
-A library management system built in C++ for the console.
+### [YouTube Data Engineering Project](https://github.com/asadali27232/)
+End-to-end cloud data engineering pipeline with ingestion, ETL, storage, and interactive Power BI dashboard visualization.
 
 ---
 
-## 🏆 Achievements
-- **Data Visualization Competition - Softec'24**  
-  Secured **1st place in Round 1** and **4th place overall**.
+## 🏆 Work Experience
+
+**Associate Data Engineer** – Devsinc | Dec 2025 – Present  
+- Managed production pipelines in Snowflake and BigQuery, including ETL scheduling, monitoring, and model standardization.  
+
+**Associate Python Developer** – Machine Learning 1 Pvt. Ltd | Mar 2025 – Nov 2025  
+- Maintained a large Python validation microservice for a global KYC product, improving accuracy and compliance through rule-driven checks.  
+
+**Associate Data Engineer** – World Wide Admissions Hub | Aug 2024 – Feb 2025  
+- Developed web scraping scripts to scale data collection from 1 to 100 websites/day.  
+- Built AI-powered ETL pipelines for data transformation and ingestion.
+
+---
+
+## 📜 Education
+
+**BS Computer Science** – COMSATS University Islamabad, Lahore Campus | Feb 2021 – Jan 2025
+
+---
+
+## 🏆 Certifications & Courses
+- **Snowflake Data Engineering** – Snowflake  
+- **Introduction to Data Engineering** – DeepLearning.AI  
+- **Databricks for Data Engineering** – Databricks  
+- **dbt Fundamentals** – dbt Labs  
+- **Programming in Python** – Meta  
+- **Querying Databases with SQL** – IBM  
 
 ---
 
 ## 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadali27232&layout=pie&theme=github_dark&hide_border=true&border_radius=4&langs_count=5&hide=html,CSS)](https://github.com/asadali27232/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadali27232&layout=pie&theme=github_dark&hide_border=true&border_radius=4&langs_count=5&hide=html,CSS)](https://github.com/asadali27232/)  
 [![Stats](https://github-readme-stats.vercel.app/api?username=asadali27232&show_icons=true&theme=github_dark&hide_border=true&border_radius=4&rank_icon=percentile)](https://github.com/asadali27232/)
 
 ### 🏆 GitHub Trophies
 [![](https://github-profile-trophy.vercel.app/?username=asadali27232&limit=8&theme=github_dark&no-frame=True&no-bg=false&margin-w=4)](https://github.com/asadali27232/)
 
-### 🔝 Top Contributed Repo
-[![](https://github-contributor-stats.vercel.app/api?username=asadali27232&limit=15&theme=github_dark&combine_all_yearly_contributions=true)](https://github.com/asadali27232/)
-
 ---
 
 ## 📫 How to Reach Me
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923074315952)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asadali27232@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadali27232/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/asadali27232)
-[![Personal Website](https://img.shields.io/badge/Personal%20Website-24292e?style=for-the-badge&logo=react&logoColor=white&color=purplr)](https://asadali27232.github.io/asadali27232/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923074315952)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asadali27232@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadali27232/)  
+[![Personal Website](https://img.shields.io/badge/Website-24292e?style=for-the-badge&logo=react&logoColor=white&color=purple)](https://asadali27232.github.io/asadali27232/)
