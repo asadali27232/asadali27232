@@ -4,6 +4,8 @@
 
 ## 🚀 About Me
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadali27232&layout=compact)
+
 I am an **Associate Data Engineer** with hands-on experience building and optimizing ETL pipelines, managing multi-source data ingestion, and working with cloud-based data warehouses including **Snowflake**, **BigQuery**, and **AWS Redshift**.
 
 Skilled in **Python**, **SQL**, **dbt**, and modern data engineering tools such as **Apache Airflow**, **Spark**, and **AWS Glue**, I have expertise in data modeling, pipeline orchestration, and ensuring data quality, reliability, and scalability. I am experienced in transforming raw data into high-quality, analytics-ready datasets, developing data-driven solutions, and contributing to large-scale projects with hundreds of tables and multi-channel pipelines.
