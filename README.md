@@ -6,12 +6,12 @@
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadali27232&layout=compact&card_width=400&langs_count=6&hide=CSS,HTML,JavaScript,Jupyter%20Notebook,HCL,Kotlin,C%23,EJS,C&theme=github_dark&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadali27232&layout=compact&card_width=400&langs_count=6&hide=CSS,HTML,JavaScript,Jupyter%20Notebook,HCL,Kotlin,C%23,EJS,C&title_color=ffffff&text_color=cccccc&border_color=d0d7de&border_radius=8&theme=github_dark" 
     width="400" 
     style="display: block;"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=asadali27232&layout=compact&card_width=400&langs_count=6&theme=github_dark&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=asadali27232&layout=compact&card_width=400&title_color=ffffff&text_color=cccccc&border_color=d0d7de&border_radius=8&theme=github_dark" 
     width="400" 
     style="display: block;"
   />
