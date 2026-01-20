@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadali27232&layout=compact&langs_count=10&hide=CSS,HTML,JavaScript,Jupyter%20Notebook,HCL,C%2B%2B,Kotlin,C%23,EJS,C)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadali27232&layout=compact&card_width=450&langs_count=10&hide=CSS,HTML,JavaScript,Jupyter%20Notebook,HCL,Kotlin,C%23,EJS,C)
 
 I am an **Associate Data Engineer** with hands-on experience building and optimizing ETL pipelines, managing multi-source data ingestion, and working with cloud-based data warehouses including **Snowflake**, **BigQuery**, and **AWS Redshift**.
 
