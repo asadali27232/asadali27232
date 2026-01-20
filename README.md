@@ -8,6 +8,11 @@
 
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asadali27232&theme=github_dark&hide_border=true)
 
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=asadali27232&theme=github_dark&hide_border=true&card_width=400" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=asadali27232&theme=github_dark&hide_border=true&card_width=400" width="400" />
+</div>
+
 I am an **Associate Data Engineer** with hands-on experience building and optimizing ETL pipelines, managing multi-source data ingestion, and working with cloud-based data warehouses including **Snowflake**, **BigQuery**, and **AWS Redshift**.
 
 Skilled in **Python**, **SQL**, **dbt**, and modern data engineering tools such as **Apache Airflow**, **Spark**, and **AWS Glue**, I have expertise in data modeling, pipeline orchestration, and ensuring data quality, reliability, and scalability. I am experienced in transforming raw data into high-quality, analytics-ready datasets, developing data-driven solutions, and contributing to large-scale projects with hundreds of tables and multi-channel pipelines.
