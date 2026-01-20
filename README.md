@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; align-items: start; gap: 20px; flex-wrap: wrap;">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadali27232&layout=compact&card_width=400&langs_count=6&hide=CSS,HTML,JavaScript,Jupyter%20Notebook,HCL,Kotlin,C%23,EJS,C&theme=github_dark&hide_border=true" 
     width="400" 
