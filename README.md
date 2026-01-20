@@ -9,13 +9,11 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadali27232&layout=compact&card_width=400&langs_count=10&hide=CSS,HTML,JavaScript,Jupyter%20Notebook,HCL,Kotlin,C%23,EJS,C&theme=github_dark&hide_border=true" 
     width="400" 
     height="200" 
-    style="border: 2px solid rgba(255, 255, 255, 0.3); border-radius: 10px;" 
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/wakatime?username=asadali27232&layout=compact&card_width=400&theme=github_dark&hide_border=true" 
     width="400" 
     height="200" 
-    style="border: 2px solid rgba(255, 255, 255, 0.3); border-radius: 10px;" 
   />
 </div>
 
