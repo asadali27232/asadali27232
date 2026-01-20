@@ -4,13 +4,9 @@
 
 ## 🚀 About Me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadali27232&layout=compact&card_width=450&langs_count=10&hide=CSS,HTML,JavaScript,Jupyter%20Notebook,HCL,Kotlin,C%23,EJS,C&theme=github_dark&hide_border=true)
-
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asadali27232&theme=github_dark&hide_border=true)
-
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=asadali27232&theme=github_dark&hide_border=true&card_width=400" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=asadali27232&theme=github_dark&hide_border=true&card_width=400" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadali27232&layout=compact&card_width=450&langs_count=10&hide=CSS,HTML,JavaScript,Jupyter%20Notebook,HCL,Kotlin,C%23,EJS,C&theme=github_dark&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=asadali27232&layout=compact&card_width=450&theme=github_dark&hide_border=true" width="400" />
 </div>
 
 I am an **Associate Data Engineer** with hands-on experience building and optimizing ETL pipelines, managing multi-source data ingestion, and working with cloud-based data warehouses including **Snowflake**, **BigQuery**, and **AWS Redshift**.
