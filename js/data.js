@@ -186,7 +186,7 @@ const COLUMNS = [
                 icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg',
                 alt: 'AWS',
                 title: 'Data Engineering on AWS - Foundations',
-                badge: 'AWS',
+                badge: 'AWS Skill Builder',
             },
             {
                 id: 'cert_databricks_de',
