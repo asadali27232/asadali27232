@@ -438,18 +438,18 @@ path.active {
     width: 42px;
     height: 42px;
     border-radius: 12px;
-    background: linear-gradient(
-        145deg,
-        var(--accent-primary),
-        var(--accent-secondary)
-    );
+    overflow: hidden;
     display: flex;
     align-items: center;
     justify-content: center;
-    font-weight: 700;
-    font-size: 14px;
-    color: white;
     flex-shrink: 0;
+    border: 1px solid var(--border-color);
+}
+
+.nav-avatar img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
     box-shadow: 0 2px 8px rgba(59, 130, 246, 0.25);
 }
 
@@ -634,7 +634,6 @@ path.active {
     .nav-avatar {
         width: 36px;
         height: 36px;
-        font-size: 12px;
     }
 
     .nav-name {

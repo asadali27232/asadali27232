@@ -1,6 +1,6 @@
 # Hi there, I'm Asad Ali! 👋
 
-[![DataCamp Data Engineer Certification](datacamp_banner.png)](https://www.datacamp.com/certificate/DE0015440477781)
+[![DataCamp Data Engineer Certification](assets/images/datacamp_banner.png)](https://www.datacamp.com/certificate/DE0015440477781)
 
 ## 🚀 About Me
 
