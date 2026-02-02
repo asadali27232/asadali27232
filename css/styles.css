@@ -53,8 +53,10 @@ body {
     z-index: 1;
 }
 
-/* Columns container - filled by JS from data.js; grows with content for vertical scroll */
+/* Columns container - filled by JS from data.js; grows with content for vertical scroll; above SVG lines so ledges stay behind nodes */
 #columns-container {
+    position: relative;
+    z-index: 10;
     display: flex;
     flex-direction: row;
     flex: 1 0 auto;
@@ -382,13 +384,13 @@ body {
     color: #94a3b8;
 }
 
-/* SVG LAYER - size set in JS to canvas scrollWidth/scrollHeight so edges visible when scrolling */
+/* SVG LAYER - behind nodes so ledges never overlap node content */
 #connections {
     position: absolute;
     top: 0;
     left: 0;
     pointer-events: none;
-    z-index: 5;
+    z-index: 0;
 }
 
 path {
@@ -497,14 +499,51 @@ path.active {
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
+    display: flex;
+    align-items: center;
 }
 
 .nav-title {
-    font-size: 12px;
+    position: relative;
+    font-size: 11px;
     font-weight: 600;
     color: var(--text-muted);
-    letter-spacing: 0.08em;
+    letter-spacing: 0.2em;
     text-transform: uppercase;
+    padding: 6px 14px;
+    background: var(--bg-secondary);
+    border: none;
+    border-radius: 6px;
+    white-space: nowrap;
+    font-family: 'JetBrains Mono', 'SF Mono', Consolas, monospace;
+}
+
+@property --nav-title-angle {
+    syntax: '<angle>';
+    initial-value: 0deg;
+    inherits: false;
+}
+
+.nav-title::before {
+    content: '';
+    position: absolute;
+    inset: -1.5px;
+    border-radius: 7.5px;
+    background: conic-gradient(
+        from var(--nav-title-angle),
+        var(--accent-secondary),
+        var(--accent-primary),
+        var(--accent-proj),
+        var(--accent-secondary)
+    );
+    z-index: -1;
+    animation: nav-title-gradient-flow 4s linear infinite;
+}
+
+@keyframes nav-title-gradient-flow {
+    to {
+        --nav-title-angle: 360deg;
+    }
 }
 
 .nav-filters {
