@@ -10,7 +10,7 @@ const lines = [];
 const NODE_COLORS = {
     skill: '#8b5cf6',
     exp: '#3b82f6',
-    cert: '#f59e0b',
+    cert: '#d4a24c',
     proj: '#0d9488',
     edu: '#3b82f6',
 };

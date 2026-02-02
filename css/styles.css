@@ -7,7 +7,7 @@
     --accent-secondary: #8b5cf6;
     --accent-success: #10b981;
     --accent-proj: #0d9488;
-    --accent-warning: #f59e0b;
+    --accent-warning: #d4a24c;
     --accent-pink: #ec4899;
     --text-main: #e2e8f0;
     --text-muted: #94a3b8;
@@ -312,7 +312,7 @@ body {
 }
 
 .node.cert .node-icon {
-    background: linear-gradient(135deg, var(--accent-warning), #f97316);
+    background: linear-gradient(135deg, var(--accent-warning), #b45309);
 }
 
 .node.cert:hover {
