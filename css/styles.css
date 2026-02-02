@@ -14,6 +14,7 @@
     --line-color: #1e293b;
     --line-active: #60a5fa;
     --border-color: #293548;
+    --stats-strip-height: 70px;
 }
 
 * {
@@ -36,13 +37,64 @@ body {
     position: relative;
     flex-grow: 1;
     width: 100%;
-    height: 100%;
+    min-height: 0;
+    padding-top: 16px;
+    padding-bottom: calc(var(--stats-strip-height) + 16px);
+    display: flex;
+    flex-direction: row;
+    gap: 0;
     overflow-x: hidden;
     overflow-y: auto;
     background-color: var(--bg-color);
     background-image: radial-gradient(circle, #334155 1px, transparent 1px);
     background-size: 30px 30px;
     z-index: 1;
+}
+
+/* Column layout: excludes nav (header), fills remaining height */
+.canvas-column {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+    min-width: 0;
+}
+
+.canvas-column .column-header {
+    position: static;
+    flex-shrink: 0;
+    margin-bottom: 20px;
+    align-self: center;
+}
+
+.canvas-column .column-nodes {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 0;
+}
+
+.canvas-column {
+    z-index: 1;
+}
+
+.canvas-column .node {
+    position: relative;
+    flex-shrink: 0;
+    width: 70%;
+    max-width: 70%;
+    min-width: 0;
+}
+
+.canvas-column .node.skill {
+    width: 55%;
+    max-width: 55%;
+}
+
+.canvas-column:first-child .column-nodes {
+    align-items: flex-start;
 }
 
 /* Custom Scrollbar */
@@ -64,24 +116,33 @@ body {
     background: var(--accent-primary);
 }
 
-/* NODES - Compact Design */
+/* NODES - Compact Design with 3D effect */
 .node {
     position: absolute;
-    background: var(--node-bg);
+    background: linear-gradient(
+        145deg,
+        var(--node-bg-hover) 0%,
+        var(--node-bg) 100%
+    );
     border: 1px solid var(--border-color);
     border-radius: 10px;
     padding: 10px 12px;
     cursor: pointer;
     transition: all 0.25s ease;
     z-index: 10;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3), 0 6px 12px rgba(0, 0, 0, 0.2),
+        inset 0 1px 0 rgba(255, 255, 255, 0.06);
+    overflow: visible;
+    opacity: 1;
+    isolation: isolate;
 }
 
 .node:hover {
-    transform: translateY(-3px);
+    transform: translateY(-4px) scale(1.02);
     border-color: var(--accent-primary);
-    background: var(--node-bg-hover);
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3), 0 0 0 1px var(--accent-primary);
+    background: linear-gradient(145deg, #1e2a42 0%, var(--node-bg-hover) 100%);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.4), 0 8px 16px rgba(0, 0, 0, 0.3),
+        inset 0 1px 0 rgba(255, 255, 255, 0.08), 0 0 0 1px var(--accent-primary);
     z-index: 20;
 }
 
@@ -161,7 +222,7 @@ body {
 
 /* Skill Nodes - Compact One-liner with left border */
 .node.skill {
-    width: 14%;
+    width: 55%;
     padding: 8px 12px;
     display: flex;
     flex-direction: row;
@@ -200,7 +261,7 @@ body {
 
 /* Experience Nodes */
 .node.exp {
-    width: 20%;
+    width: 70%;
     border-left: 3px solid var(--accent-primary);
 }
 
@@ -223,7 +284,7 @@ body {
 
 /* Certification Nodes */
 .node.cert {
-    width: 20%;
+    width: 70%;
     border-left: 3px solid var(--accent-warning);
 }
 
@@ -253,7 +314,7 @@ body {
 
 /* Project Nodes */
 .node.proj {
-    width: 20%;
+    width: 70%;
     border-left: 3px solid var(--accent-success);
 }
 
@@ -273,7 +334,7 @@ body {
 
 /* Education Nodes */
 .node.edu {
-    width: 20%;
+    width: 70%;
     border-left: 3px solid #94a3b8;
 }
 
@@ -294,7 +355,7 @@ svg {
     width: 100%;
     height: 100%;
     pointer-events: none;
-    z-index: 1;
+    z-index: 5;
 }
 
 path {
@@ -302,11 +363,10 @@ path {
     stroke: var(--line-color);
     stroke-width: 1.5;
     transition: all 0.3s ease;
-    opacity: 0.5;
+    opacity: 0.35;
 }
 
 path.active {
-    stroke: url(#lineGradient);
     stroke-width: 2;
     opacity: 1;
     stroke-dasharray: 6 3;
@@ -458,7 +518,7 @@ header {
 /* Stats Bar */
 .stats-bar {
     position: fixed;
-    bottom: 16px;
+    bottom: 12px;
     left: 50%;
     transform: translateX(-50%);
     display: flex;

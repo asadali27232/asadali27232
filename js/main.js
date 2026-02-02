@@ -47,8 +47,26 @@ const svg = document.getElementById('connections');
 const canvas = document.getElementById('canvas');
 const lines = [];
 
+// Node type to line color (matches CSS accents)
+const NODE_COLORS = {
+    skill: '#8b5cf6',
+    exp: '#3b82f6',
+    cert: '#f59e0b',
+    proj: '#10b981',
+    edu: '#94a3b8',
+};
+
+function getNodeColor(el) {
+    if (el.classList.contains('skill')) return NODE_COLORS.skill;
+    if (el.classList.contains('exp')) return NODE_COLORS.exp;
+    if (el.classList.contains('cert')) return NODE_COLORS.cert;
+    if (el.classList.contains('proj')) return NODE_COLORS.proj;
+    if (el.classList.contains('edu')) return NODE_COLORS.edu;
+    return '#64748b';
+}
+
 /**
- * Draw connection lines between nodes
+ * Draw connection lines between nodes (gradient from source node color to target node color)
  */
 function drawLines() {
     const defs = svg.querySelector('defs');
@@ -56,7 +74,7 @@ function drawLines() {
     if (defs) svg.appendChild(defs);
     lines.length = 0;
 
-    connections.forEach(([startId, endId]) => {
+    connections.forEach(([startId, endId], index) => {
         const startEl = document.getElementById(startId);
         const endEl = document.getElementById(endId);
         if (!startEl || !endEl) return;
@@ -74,6 +92,36 @@ function drawLines() {
         const y2 =
             endRect.top + endRect.height / 2 - canvasRect.top + scrollTop;
 
+        const startColor = getNodeColor(startEl);
+        const endColor = getNodeColor(endEl);
+
+        const gradId = `lineGrad-${index}`;
+        const grad = document.createElementNS(
+            'http://www.w3.org/2000/svg',
+            'linearGradient'
+        );
+        grad.setAttribute('id', gradId);
+        grad.setAttribute('gradientUnits', 'userSpaceOnUse');
+        grad.setAttribute('x1', x1);
+        grad.setAttribute('y1', y1);
+        grad.setAttribute('x2', x2);
+        grad.setAttribute('y2', y2);
+        const stop1 = document.createElementNS(
+            'http://www.w3.org/2000/svg',
+            'stop'
+        );
+        stop1.setAttribute('offset', '0%');
+        stop1.setAttribute('stop-color', startColor);
+        const stop2 = document.createElementNS(
+            'http://www.w3.org/2000/svg',
+            'stop'
+        );
+        stop2.setAttribute('offset', '100%');
+        stop2.setAttribute('stop-color', endColor);
+        grad.appendChild(stop1);
+        grad.appendChild(stop2);
+        defs.appendChild(grad);
+
         const path = document.createElementNS(
             'http://www.w3.org/2000/svg',
             'path'
@@ -85,7 +133,7 @@ function drawLines() {
 
         path.setAttribute('d', d);
         svg.appendChild(path);
-        lines.push({ path, startId, endId });
+        lines.push({ path, startId, endId, gradId });
     });
 }
 
