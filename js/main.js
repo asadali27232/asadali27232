@@ -1,46 +1,5 @@
-// Connections config - defines relationships between skills and other nodes
-const connections = [
-    ['skill_dbt', 'role_devsinc'],
-    ['skill_dbt', 'cert_dbt'],
-    ['skill_snowflake', 'role_devsinc'],
-    ['skill_snowflake', 'cert_snow'],
-    ['skill_de', 'role_devsinc'],
-    ['skill_de', 'edu_comsats'],
-    ['skill_de', 'cert_aws_de'],
-    ['skill_de', 'cert_datacamp'],
-    ['skill_python', 'role_ml1'],
-    ['skill_python', 'cert_python'],
-    ['skill_python', 'proj_youtube'],
-    ['skill_python', 'proj_terraform'],
-    ['skill_python', 'proj_airflow'],
-    ['skill_python', 'edu_comsats'],
-    ['skill_sql', 'edu_comsats'],
-    ['skill_sql', 'cert_sql'],
-    ['skill_sql', 'role_devsinc'],
-    ['skill_sql', 'proj_terraform'],
-    ['skill_etl', 'role_wwa'],
-    ['skill_etl', 'proj_youtube'],
-    ['skill_etl', 'proj_terraform'],
-    ['skill_etl', 'cert_intro_de'],
-    ['skill_dw', 'edu_comsats'],
-    ['skill_dw', 'role_devsinc'],
-    ['skill_aws', 'cert_intro_de'],
-    ['skill_aws', 'cert_aws_de'],
-    ['skill_aws', 'role_devsinc'],
-    ['skill_aws', 'proj_youtube'],
-    ['skill_aws', 'proj_terraform'],
-    ['skill_aws', 'proj_airflow'],
-    ['skill_airflow', 'role_devsinc'],
-    ['skill_airflow', 'proj_airflow'],
-    ['skill_lambda', 'proj_youtube'],
-    ['skill_glue', 'proj_youtube'],
-    ['skill_glue', 'proj_terraform'],
-    ['skill_athena', 'proj_youtube'],
-    ['skill_athena', 'proj_terraform'],
-    ['skill_terraform', 'proj_terraform'],
-    ['skill_rds', 'proj_terraform'],
-    ['skill_ec2', 'proj_airflow'],
-];
+// Data (COLUMNS, CONNECTIONS) is loaded from data.js
+const connections = typeof CONNECTIONS !== 'undefined' ? CONNECTIONS : [];
 
 // DOM Elements
 const svg = document.getElementById('connections');
@@ -73,6 +32,12 @@ function drawLines() {
     svg.innerHTML = '';
     if (defs) svg.appendChild(defs);
     lines.length = 0;
+
+    const scrollW = canvas.scrollWidth;
+    const scrollH = canvas.scrollHeight;
+    svg.setAttribute('width', scrollW);
+    svg.setAttribute('height', scrollH);
+    svg.setAttribute('viewBox', `0 0 ${scrollW} ${scrollH}`);
 
     connections.forEach(([startId, endId], index) => {
         const startEl = document.getElementById(startId);
@@ -138,6 +103,125 @@ function drawLines() {
 }
 
 /**
+ * Create a single node DOM element from node data
+ */
+function createNodeEl(node) {
+    const div = document.createElement('div');
+    div.className = `node ${node.type}`;
+    div.id = node.id;
+
+    if (node.type === 'skill') {
+        div.innerHTML = `
+            <div class="node-icon">
+                <img src="${escapeHtml(node.icon)}" alt="${escapeHtml(
+            node.alt
+        )}" />
+            </div>
+            <h3>${escapeHtml(node.title)}</h3>
+        `;
+    } else if (node.type === 'exp' || node.type === 'edu') {
+        div.innerHTML = `
+            <div class="node-header">
+                <div class="node-icon">
+                    <img src="${escapeHtml(node.icon)}" alt="${escapeHtml(
+            node.alt
+        )}" />
+                </div>
+                <h3>${escapeHtml(node.title)}</h3>
+            </div>
+            <p class="role">${escapeHtml(node.role || '')}</p>
+        `;
+    } else if (node.type === 'cert' || node.type === 'proj') {
+        div.innerHTML = `
+            <div class="node-header">
+                <div class="node-icon">
+                    <img src="${escapeHtml(node.icon)}" alt="${escapeHtml(
+            node.alt
+        )}" />
+                </div>
+                <h3>${escapeHtml(node.title)}</h3>
+            </div>
+            <span class="badge">${escapeHtml(node.badge || '')}</span>
+        `;
+    }
+
+    return div;
+}
+
+function escapeHtml(text) {
+    const span = document.createElement('span');
+    span.textContent = text;
+    return span.innerHTML;
+}
+
+/**
+ * Render all columns and nodes from COLUMNS data into #columns-container
+ */
+function renderNodes() {
+    if (typeof COLUMNS === 'undefined') return;
+    const container = document.getElementById('columns-container');
+    if (!container) return;
+
+    container.innerHTML = '';
+    COLUMNS.forEach((col) => {
+        const columnEl = document.createElement('div');
+        columnEl.className = 'canvas-column';
+        columnEl.innerHTML = `
+            <div class="column-header">${escapeHtml(col.header)}</div>
+            <div class="column-nodes"></div>
+        `;
+        const nodesContainer = columnEl.querySelector('.column-nodes');
+        col.nodes.forEach((node) => {
+            nodesContainer.appendChild(createNodeEl(node));
+        });
+        container.appendChild(columnEl);
+    });
+}
+
+/**
+ * Find the tallest column and set all columns to that column's width
+ */
+function matchColumnWidths() {
+    const container = document.getElementById('columns-container');
+    if (!container) return;
+    const columns = container.querySelectorAll('.canvas-column');
+    if (columns.length === 0) return;
+
+    let maxHeight = 0;
+    let targetWidth = 0;
+    columns.forEach((col) => {
+        const h = col.offsetHeight;
+        if (h > maxHeight) {
+            maxHeight = h;
+            targetWidth = col.offsetWidth;
+        }
+    });
+    if (targetWidth > 0) {
+        container.style.setProperty('--column-width', targetWidth + 'px');
+        container.classList.add('column-widths-matched');
+    }
+}
+
+/**
+ * Update stats bar counts from COLUMNS data
+ */
+function updateStats() {
+    if (typeof COLUMNS === 'undefined') return;
+    const statsBar = document.querySelector('.stats-bar');
+    if (!statsBar) return;
+    const counts = [
+        COLUMNS[0]?.nodes.length ?? 0,
+        COLUMNS[1]?.nodes.length ?? 0,
+        COLUMNS[2]?.nodes.length ?? 0,
+        COLUMNS[3]?.nodes.length ?? 0,
+    ];
+    const values = statsBar.querySelectorAll('.stat-value');
+    values.forEach((el, i) => {
+        if (counts[i] !== undefined) el.textContent = String(counts[i]);
+    });
+}
+
+/**
  * Check if two nodes are connected
  */
 function isNodeConnected(currId, targetId) {
@@ -184,7 +268,7 @@ function initNodeInteractions() {
                 line.path.style.opacity = '';
             });
             nodes.forEach((n) => {
-                n.style.opacity = '1';
+                n.style.opacity = '';
             });
         });
     });
@@ -222,7 +306,7 @@ function initLegendFiltering() {
                 });
             } else {
                 nodes.forEach((node) => {
-                    node.style.opacity = '1';
+                    node.style.opacity = '';
                 });
                 lines.forEach((line) => {
                     line.path.style.opacity = '';
@@ -232,13 +316,56 @@ function initLegendFiltering() {
     });
 }
 
+/**
+ * Hide stats bar when scrolling down, show when scrolling up or at rest (with animation)
+ */
+function initStatsBarScroll() {
+    const statsBar = document.querySelector('.stats-bar');
+    if (!statsBar || !canvas) return;
+
+    let lastScrollTop = canvas.scrollTop;
+    let atRestTimeout = null;
+    const atRestDelay = 250;
+
+    function updateVisibility() {
+        const scrollTop = canvas.scrollTop;
+        const scrollingDown = scrollTop > lastScrollTop;
+
+        if (scrollingDown && scrollTop > 10) {
+            statsBar.classList.add('stats-bar--hidden');
+        } else {
+            statsBar.classList.remove('stats-bar--hidden');
+        }
+
+        lastScrollTop = scrollTop;
+
+        clearTimeout(atRestTimeout);
+        atRestTimeout = setTimeout(() => {
+            statsBar.classList.remove('stats-bar--hidden');
+            lastScrollTop = canvas.scrollTop;
+        }, atRestDelay);
+    }
+
+    canvas.addEventListener('scroll', updateVisibility, { passive: true });
+}
+
 // Initialize on DOM ready
 document.addEventListener('DOMContentLoaded', () => {
-    setTimeout(drawLines, 100);
+    renderNodes();
+    updateStats();
+    matchColumnWidths();
+    initStatsBarScroll();
+    setTimeout(() => {
+        matchColumnWidths();
+        drawLines();
+    }, 100);
     initNodeInteractions();
     initLegendFiltering();
 });
 
 // Event listeners
-window.addEventListener('resize', drawLines);
+window.addEventListener('resize', () => {
+    matchColumnWidths();
+    drawLines();
+});
 canvas.addEventListener('scroll', drawLines);
