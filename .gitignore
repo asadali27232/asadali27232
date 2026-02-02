@@ -1,2 +1,4 @@
 .env
 .cursor
+./cursor/*
+*.log
