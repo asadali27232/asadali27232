@@ -6,6 +6,23 @@ const svg = document.getElementById('connections');
 const canvas = document.getElementById('canvas');
 const lines = [];
 
+// #region agent log
+function _log(location, message, data, hypothesisId) {
+    fetch('http://127.0.0.1:7242/ingest/7d630465-7d64-4cee-a005-a9d882681341', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+            location,
+            message,
+            data: data || {},
+            timestamp: Date.now(),
+            sessionId: 'debug-session',
+            hypothesisId,
+        }),
+    }).catch(function () {});
+}
+// #endregion
+
 // Node type to line color (matches CSS accents; edu same as exp for edge gradient)
 const NODE_COLORS = {
     skill: '#8b5cf6',
@@ -28,6 +45,15 @@ function getNodeColor(el) {
  * Draw connection lines between nodes (gradient from source node color to target node color)
  */
 function drawLines() {
+    // #region agent log
+    _log(
+        'main.js:drawLines',
+        'drawLines called',
+        { svgNull: svg === null, canvasNull: canvas === null },
+        'H1'
+    );
+    if (!svg || !canvas) return;
+    // #endregion
     const defs = svg.querySelector('defs');
     svg.innerHTML = '';
     if (defs) svg.appendChild(defs);
@@ -39,7 +65,20 @@ function drawLines() {
     svg.setAttribute('height', scrollH);
     svg.setAttribute('viewBox', `0 0 ${scrollW} ${scrollH}`);
 
-    connections.forEach(([startId, endId], index) => {
+    connections.forEach((conn, index) => {
+        // #region agent log
+        const startId = conn && conn[0],
+            endId = conn && conn[1];
+        if (conn == null || !Array.isArray(conn) || conn.length < 2) {
+            _log(
+                'main.js:drawLines',
+                'malformed connection',
+                { index, conn },
+                'H4'
+            );
+            return;
+        }
+        // #endregion
         const startEl = document.getElementById(startId);
         const endEl = document.getElementById(endId);
         if (!startEl || !endEl) return;
@@ -196,6 +235,14 @@ function matchColumnWidths() {
             targetWidth = col.offsetWidth;
         }
     });
+    // #region agent log
+    _log(
+        'main.js:matchColumnWidths',
+        'matchColumnWidths result',
+        { targetWidth, maxHeight, columnsLength: columns.length },
+        'H5'
+    );
+    // #endregion
     if (targetWidth > 0) {
         container.style.setProperty('--column-width', targetWidth + 'px');
         container.classList.add('column-widths-matched');
@@ -246,8 +293,21 @@ function initNodeInteractions() {
                 if (isConnected) {
                     line.path.classList.add('active');
                     line.path.style.stroke = `url(#${line.gradId})`;
-                    document.getElementById(line.startId).style.opacity = '1';
-                    document.getElementById(line.endId).style.opacity = '1';
+                    // #region agent log
+                    const startEl = document.getElementById(line.startId),
+                        endEl = document.getElementById(line.endId);
+                    if (!startEl || !endEl) {
+                        _log(
+                            'main.js:mouseenter',
+                            'missing node on hover',
+                            { startId: line.startId, endId: line.endId },
+                            'H2'
+                        );
+                        return;
+                    }
+                    // #endregion
+                    startEl.style.opacity = '1';
+                    endEl.style.opacity = '1';
                 } else {
                     line.path.style.opacity = '0.1';
                     line.path.style.stroke = '';
@@ -298,6 +358,17 @@ function initLegendFiltering() {
                 lines.forEach((line) => {
                     const startNode = document.getElementById(line.startId);
                     const endNode = document.getElementById(line.endId);
+                    // #region agent log
+                    if (!startNode || !endNode) {
+                        _log(
+                            'main.js:legendFilter',
+                            'missing node on filter',
+                            { startId: line.startId, endId: line.endId },
+                            'H3'
+                        );
+                        return;
+                    }
+                    // #endregion
                     line.path.style.opacity =
                         startNode.classList.contains(filter) ||
                         endNode.classList.contains(filter)
