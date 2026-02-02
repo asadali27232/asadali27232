@@ -6,6 +6,7 @@
     --accent-primary: #3b82f6;
     --accent-secondary: #8b5cf6;
     --accent-success: #10b981;
+    --accent-proj: #0d9488;
     --accent-warning: #f59e0b;
     --accent-pink: #ec4899;
     --text-main: #e2e8f0;
@@ -152,7 +153,7 @@ body {
     gap: 8px;
 }
 
-/* Experience/Education header with badge on right */
+/* Roles & Education header */
 .node.exp .node-header,
 .node.edu .node-header {
     display: flex;
@@ -166,18 +167,23 @@ body {
     flex-grow: 1;
 }
 
-.node.exp .node-header .badge,
-.node.edu .node-header .badge {
-    margin-top: 0;
-    margin-left: auto;
+/* Role/degree text styled like former "Current" badge */
+.node.exp .role,
+.node.edu .role {
+    margin-top: 6px;
+    display: inline-block;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-size: 9px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
 }
 
 .node.exp .role,
 .node.edu .role {
-    margin-top: 6px;
-    font-size: 11px;
-    color: var(--text-muted);
-    font-weight: 500;
+    background: rgba(59, 130, 246, 0.15);
+    color: var(--accent-primary);
 }
 
 .node-icon {
@@ -259,7 +265,7 @@ body {
     word-wrap: break-word;
 }
 
-/* Experience Nodes */
+/* Roles & Education nodes (experience) */
 .node.exp {
     width: 70%;
     border-left: 3px solid var(--accent-primary);
@@ -315,27 +321,39 @@ body {
 /* Project Nodes */
 .node.proj {
     width: 70%;
-    border-left: 3px solid var(--accent-success);
+    border-left: 3px solid var(--accent-proj);
 }
 
 .node.proj .node-icon {
-    background: linear-gradient(135deg, var(--accent-success), #059669);
+    background: linear-gradient(135deg, var(--accent-proj), #0f766e);
+}
+
+.node.proj .node-icon img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    border-radius: 4px;
+    filter: invert(1) brightness(1.1);
 }
 
 .node.proj:hover {
-    border-color: var(--accent-success);
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3), 0 0 0 1px var(--accent-success);
+    border-color: var(--accent-proj);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3), 0 0 0 1px var(--accent-proj);
 }
 
 .node.proj .badge {
-    background: rgba(16, 185, 129, 0.15);
-    color: var(--accent-success);
+    background: rgba(13, 148, 136, 0.2);
+    color: #5eead4;
 }
 
-/* Education Nodes */
+/* Education Nodes - same border/hover as Roles & Education */
 .node.edu {
     width: 70%;
-    border-left: 3px solid #94a3b8;
+    border-left: 3px solid var(--accent-primary);
+}
+
+.node.edu:hover {
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3), 0 0 0 1px var(--accent-primary);
 }
 
 .node.edu .node-icon {

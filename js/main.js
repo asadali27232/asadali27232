@@ -47,13 +47,13 @@ const svg = document.getElementById('connections');
 const canvas = document.getElementById('canvas');
 const lines = [];
 
-// Node type to line color (matches CSS accents)
+// Node type to line color (matches CSS accents; edu same as exp for edge gradient)
 const NODE_COLORS = {
     skill: '#8b5cf6',
     exp: '#3b82f6',
     cert: '#f59e0b',
-    proj: '#10b981',
-    edu: '#94a3b8',
+    proj: '#0d9488',
+    edu: '#3b82f6',
 };
 
 function getNodeColor(el) {
@@ -161,10 +161,12 @@ function initNodeInteractions() {
                 const isConnected = line.startId === id || line.endId === id;
                 if (isConnected) {
                     line.path.classList.add('active');
+                    line.path.style.stroke = `url(#${line.gradId})`;
                     document.getElementById(line.startId).style.opacity = '1';
                     document.getElementById(line.endId).style.opacity = '1';
                 } else {
                     line.path.style.opacity = '0.1';
+                    line.path.style.stroke = '';
                 }
             });
 
@@ -178,6 +180,7 @@ function initNodeInteractions() {
         node.addEventListener('mouseleave', () => {
             lines.forEach((line) => {
                 line.path.classList.remove('active');
+                line.path.style.stroke = '';
                 line.path.style.opacity = '';
             });
             nodes.forEach((n) => {

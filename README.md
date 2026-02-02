@@ -23,7 +23,7 @@ Skilled in **Python**, **SQL**, **dbt**, and modern data engineering tools such 
 
 ---
 
-## 💼 Work Experience
+## 💼 Roles & Education
 
 ### **Associate Data Engineer**
 
