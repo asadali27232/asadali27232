@@ -439,4 +439,4 @@ window.addEventListener('resize', () => {
     matchColumnWidths();
     drawLines();
 });
-canvas.addEventListener('scroll', drawLines);
+if (canvas) canvas.addEventListener('scroll', drawLines);
